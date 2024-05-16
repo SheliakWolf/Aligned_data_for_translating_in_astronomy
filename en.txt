@@ -1,0 +1,2292 @@
+Research Progress of Galaxy-Galaxy Strong Lensing Observed by (Sub)millimeter Interferometer
+VARIATION OF THE NIGHT SKY BRIGHTNESS AT YUNNAN OBSERVATORY SINCE 1987
+The report on scientific research and technical work of Shanghai Astronomical Observatory in 2001
+The report on scientific research and technical work of Shanghai astronomical observatory in 2002
+THE SCIENTIFIC RESEARCH AND TECHNICAL WORK OF SHANGHAI ASTRONOMICAL OBSERVATORY IN 2006
+THE ANNUAL REPORT OF SHANGHAI ASTRONOMICAL OBSERVATORY IN 2007
+Will Betelgeuse explode in 2012
+Top astronomy events in 2020
+Top astronomy events in 2021
+The Gas to Dust Ratio in Three Star Forming Regions
+Multi-method Study on Radius of Radiation Zone of AGN Accretion Disk
+Searching for hypervelocity stars from the APOGEE survey
+Research of Applications of the Common Execution Architecture Framework for the AstroGrid
+Fast Orbit Reconstruction for Asteroid Exploration Experiment of CE-2
+Radial Velocity Measurement of the DA White Dwarfs
+Relation of Velocity Distribution and Mass for DA White Dwarfs
+DBSCAN Clustering Algorithm for Detection of Nearby Open Clusters Based on Gaia-DR2
+deltaScuti Stars and Their Related Objects
+The Effect of delta Meson on Thermal Protoneutron Star Matter
+Simulation of FRBs in FAST Drift-scan Observations
+A Study of External Photon Fields in Flat-Spectrum Radio Quasars Observed by the Fermi Large Area Telescope
+Study on the Spin Characteristics of the Flora Asteroid Family
+Progress in Gamma-Ray Bursts: The Fireball Model, Afterglows and Progenitors
+The Effect of the Host Galaxy on the Short Timescale Variability of gamma-ray Loud Blaxars
+Analysis on the Metal Abundance and Motion Property of GD-1 Star Streaming
+GRB 160821B late afterglow rebrightening:A new candidate for magnetar-powered Merger-novae
+GRB 130427A/SN 2013cq and the Gamma-Ray Burst/Supernova Associations
+The Explosion Models and Progenitors of Type la Supernovae
+Dependence of SNe Ia Rates and Luminosities on Host Galaxies
+Extinction Correction for Type Ia Supernovae
+The Progenitors of Type Ia Supernovae and the Related Objects
+The Research Progress of the Interaction between Type I X-ray Burst and Matter around Neutron Stars
+LAMOST/GALAXY Project: Study of the Galaxy Using the LAMOST
+Scientific projects of LAMOST
+Observational and Research Progress of the M31 Galaxy
+The Progress of Research on the Stellar Populations of M31
+Stellar Observation and Research Progress in M31
+Variation of TeV emission from M87
+A Study of Characteristics and Origins of Stars of Ultra High Mg Abundances
+The Statistical Investigation of Exoplanets around M Dwarfs
+NASA found Kepler-452b, the Earths bigger and older cousin
+An Interpretation ofAnother EarthKepler-452b found by NASA
+Interpretation of Natures Top 10Remarkable Discoveries from 2020
+The Neutrino Annihilation Model of NDAF Explains the Explosion of GRB 090510
+Study on Gravitational Wave Radiation from OJ 287
+Influence of effective interactions in the RMF theory on properties of neutron star at finite temperature
+Stellar Abundance and Galaxy Evolution Survey - Photometric System and Data Reduction
+Big Blue Bump in Seyfert Nuclei
+Effect of sigma*,phi Mesons on the Moment of Inertia of Finite-Temperature Neutron Stars
+Effect of sigma~* andphi mesons on the moment of inertia for neutron star
+The Square Kilometre Array and 21 cm cosmology
+The New Progress on the Research of SS433
+Cosmology with the sunyaev-zel'dovich effect
+The Sunyaev-Zel'dovich Effect Cluster Surveys and Their Cosmological Significance
+VO_IMPAT: Image Processing and Analysis Toolkit for the Virtual Observatory of China
+The Design and Implement of VO-DAS Registry
+The Design and Implement of Client System of Virtual Observatory Data Access Service
+The Change of the Giant arcs' number in the three-year WMAP Cosmological Model
+The correlation between broad-band spectral index and peak frequency for XBLs and FSRQs
+The X-ray binary system in the EP era
+Two New VLBI Detections Verified of the X-ray Transient Aql X-1
+A Brief Overview and Research Progress of Dwarf Novae
+Gravitational Rings and Their Cluster Environment
+On the detection of shock breakouts of core-collapse supernovae with the Einstein Probe satellite
+Einstein Probes scientific opportunities in the field of active galactic nuclei
+Einstein Probe: Application on the observation of cataclysmic variables
+DETERMINING THE DISTANCE OF OPEN CLUSTER Mll FROM THE PURE KINEMATICAL OBSERVATIONAL DATA
+Prestudy of photometric and slitless grating spectroscopic surveys on faint white dwarfs through the China Space Station Telescope
+The White Dwarf Star is a Negative Entropy System
+The White Dwarf Star System-The Composite System Compased of the Electron-Positive Energy System and the Helium-Ion-Negative Energy System
+White Dwarf Evolution and Cosmochronology
+Research Progress on Searching for White Dwarf-Main Sequence Binaries
+A study of X-ray characteristics of mixed -morphology supernova remnants accompanied by OH maser emission at 1720 MHz
+Determination of atmospheric extinction in astronomy observatory of beijing normal university
+Chemical Evolution and Star Formation History of the Disks of Spirals in Local Group
+Research Progress on the Atmosphere of Ice Giant Planet
+Reachable Zone Generation for Irregularly Shaped Asteroid Landing
+Flight dynamics in the gravitational fields of irregular asteroids
+Combined modeling for gravitation field of asteroid with irregular shape
+Ground-Based Observation Efficiency Evaluation of Near-Earth Asteroids in Different Observation Stations
+Origin of Ultraviolet Intermediate-width Emission Lines in Partially Obscured Quasar SDSS J151653.22+190048.2
+The Methods of Determining [Fe/H] for RR Lyrae Stars
+Design of an asteroid flying-by mission for CHANG'E-2
+Mission Design of the CHANG'E-2 Asteroid Exploration
+Orbit determination and analysis for Chang'E-2 asteroid exploration
+Critical luminosity of Super-Dddington accretion disks
+The Recent Research Progress of Ultra-Short Periods Exoplanets
+Ultra-high precision photometry and data analysis
+Research Progress on Searching for Hyper-velocity Stars
+Estimation of ~(56)Ni Needed in the Explosion Process of the Super Luminous Supernova ASASSN-151h
+Supernova 1987A： 20 years later
+Dust in the SN1987A Remnant
+LATEST STATISTICAL ANALYSIS ON SUPERNOVAE
+PROGERESS IN SUPERNOVA RESEARCH
+The Evolution of Radio Flux Densities of Supernova Remnant G1.9+0.3
+The Distribution of Molecular Gas around SN 1572
+Multi-wavelength studies on interaction of supernova remnants with molecular clouds
+Connection between SNRs and EGOs
+Supernova Cosmology: Observations and Progress
+Effect of u and d quark mass on the phase transition of quark matter in supernova
+Effects of Temperature on Thermal Protoneutron Star Matter
+The influence of the hyperon coupling constants on the gravitational redshift of a proto neutron star
+Effect of Hyperon Couplings on Thermal Protoneutron Star Matter
+Hyperonic Potential in Neutron Star
+The Influence of Hyperon Isospin Interaction on the Properties of Neutron Star
+Effect of hyperon isospin interaction on the moment of inertia of neutron stars
+Robotic Autonomous Observatory Network Review
+The neutrino and anti-neutrino absorption sections in the wind of proto-neutron stars
+Effect of Magnetic Field on Particle Fractions for Neutrino-dominated Accretion Disk
+Evolution and Efficiency of Releasing Energy of a Magnetized black-Hole Accretion Disk
+Study on the Instability of Magnetized Accretion Disks
+Magnetic Collapsing Instabilities and Self-Generated Intermittent Flux
+The Research in Observations and Theory of Magnetar Giant Flares
+Detecting Earth-like Extra-solar Planets from Antarctica by Gravitational Microlensing
+Searching Launch Opportunity of Asteroid Exploration from Moon Departure
+Anomalies in time-latitude residuals at Yunnan Observatory before Dayao and Puer earthquakes
+Co-evolution of Massive Black Holes and Their Host Galaxies
+Massive Young Cluster and Super Star Cluster
+Light Echoes and Remnants of Historically Galactic Supernovae
+Study on observation simulation for space-based potentially hazardous asteroids warning mission on Earth trailing heliocentric orbit
+Stability Regions for Earth Trojans
+Near-Earth Asteroids Orbit Determination by DRO Space-Based Optical Observations
+Near-Earth asteroids observation system in cislunar space
+Lithium and Beryllium Depletions in Low Main-Sequence Stars
+A Method of Estimating the [alpha/Fe] Ratios from Low-resolution Stellar Spectra
+Estimates of Radiation Efficiencies of Low-Redshift SDSS QSOs
+Current Progress on Second Astrometric Satellite (Gaia)Project
+Cosmic microwave background radiation
+The Influence of Electron Screening on beta-Decay Rate in Stellar Interior
+Analysis of Ablation Mechanism of Iron Asteroid Materials under the Condition of Arc Heater Test
+The mass of the neutrino-dominated accretion disks in short gamma-ray bursts
+Short-term Hazardous Asteroid
+On asteroid 1436 Salonta occulting star WY Gem
+Observation and study of occultation of HIP 47310by asteroid 313Chaldaea
+Probing the nuclear equation of state using the neutron star observables within the Bayesian inference approach
+The Sagittarius-Carina Aam and Halo Mass of Our Galaxy with Different Rotation Curves
+Observational constraints on interacting dark energy models with multiple measurements of quasars
+Sequence determination and trajectory optimization for the exploration of asteroids
+A Multi-object Exoplanet Detecting Technique
+The Supernova Remnant of More than 4100 Years Ago Was Discovered-Emperor Yao's Jingxing (PKS 1209-52)
+The Anomalous X-ray Pulsars
+The stationary structure of the thin accretion disk with anomalous viscosity
+The Characteristics of Near Asteroid Orbital Dynamics and its Implication to Mission Analysis
+Spacecraft Orbital Motion Around Asteroids
+GRAVITATIONAL LENSING EFFECT IN A COSMOLOGICAL MODEL WITH A NON-SCALE-INVARIANT SPECTRUM
+Hard-to-soft State Transition Dominated by Non-stationary Accretion
+A STUDY ON NON-PROFESSIONAL SMALL ASTRONOMICAL OBSERVATORY CONSTRUCTION
+Multi-messenger detections of binary neutron star mergers powered by decihertz gravitational-wave observations
+Line-of-sight guidance for adhesion asteroid
+Recent research progress in gamma-ray-bright supernova remnants
+Study on 21 cm Signal of High Redshift Quasars
+Observational studies on high-redshift quasars
+Constraint on the interacting dark energy from the highly redshifted quasar data
+Multi-Wavelength Optical Variability of High Redshift Blazar 4C 38.41
+The Blue Excess of High-velocity Type Ia Supernovae: Dust Scattering of Circumstellar Material
+Evidence Consistent with the Cosmological Interpretation of Quasar Redshifts
+THE ANNUAL REPORT OF SHANGHAI ASTRONOMICAL OBSERVATORY IN 2008
+Discussion on the requirements and feasibility of constructing Chinas near-Earth asteroids radar system
+Construction of the Chinese Data- node System for Virtual Solar Observatory
+Construction of the SkyNode System for Chinese Virtual Observatory
+The Suggestion on Selection of Astrometric Standard Fields for LAMOST
+Discussion on interaction between electromagnetic wave and vacuum space and some cosmology issues
+NOTE ON THE STABILITY OF THE #1 CCD CAMERA OF THE 1.56m REFLECTOR
+NOTE ON THE NIGHT SKY BRIGHTNESS AT THE JIANG-NAN-TIAN-CHI STATION OF SHANGHAI OBSERVATORY
+On Studies of Some Latest Results on Microquasar
+Notes on the CCD Flatfields of the YFOSC on the 2.4m Reflector of the Yunnan Observatory
+The observational constraints to the multiphase,three-zone chemical evolution model for galaxies
+Spectral Preprocess and Its Influence on Galaxy and Quasar Classification
+Light Pollution and Protection of Optical Telescope Sites
+Strong Lensing Simulation in a Light Cone
+The Impacts of Orbital Distance on Exoplanetary Atmospheric Escape
+Project on Chinese Virtual Solar Observatory
+Advantages of Hubble parameter to determine cosmology model
+Helium White Dwarf-main Sequence Star Merger and Formation of Pulsating Hot Subdwarf Stars
+The Specturum of Two-temperature Accretion Disk with Electron-positron Pair
+Cosmology model with a varyiing speed of light
+Motion analysis of spacecraft around the asteroid Ivar
+The effect of dissipation on magnetic instability of accretion disks
+Approaches to Estimate Dynamical Masses of External Galaxies
+Stellar Tidal Streams Around External Galaxies
+Core Collapse Supernovae
+Constraint on Properties of Rapidly Rotating Neutron Stars from Nuclear Symmetry Energy Slope
+Galaxy-scale contributions of black hole hyperaccretions in the center of core-collapse supernovae
+A brief review on progenitors of core-collapse supernovae
+Gravitational Wave Bursts from Core-Collapse Supernovae
+Nuclear coupling parameters affect hyperon phase in the neutron star
+The Searches and Observational Characteristics of Brown Dwarfs
+Thermal Stability of Magnetized Thin Accretion Disks Around Black Holes
+An Explanation for the Correlation between Type-B QPO Frequency and the Power-law Flux in Black-hole Binaries
+The Recent Progresses in the Theory of Black Hole Accretion and its Astrophysical Applications
+Numerical Simulation of Black Hole Accretion Disks
+Electromagnetic Extraction of Rotational Energy from a Black Hole and its Application to Astrophysics
+Shape and Position of a Black Hole Shadow in SSD
+OBSERVABILITY OF BLACK HOLE LENSING
+Recent Progress in Observational Identifications of Stellar Mass Black Holes
+A Theoretical Probe for Excitation Mechanism of Solar-like and Mira-like Oscillations of Stars
+Polarization Observation Experiments for Radio Flares of Stars at 6 cm Band
+Detection of Faint Objects in Multiple-star Systems with High-resolution Image Reconstruction Techniques
+Research Development of Red Subdwarfs
+Trajectory Optimization Design for Multiple-Target Asteroid Flyby Mission in Ecliptic Plane
+Active Galactic Nuclei and the Redshift
+A Study of Relations of Black-Hole Mass Values and Bulge-Mass Values to Redshifts of AGN
+Analyses of physical mechanism of jet precession in active galactic nuclei
+Studies of the Black Hole Mass and the Eddington Rate Of AGNs
+Determining 3D Kinematical Members of the Open Cluster NGC 188 with the DBSCAN Clustering Algorithm
+Orbit Design Optimization Method for an Asteroid Flyby Mission from DRO
+Variability Periodicity Analysis of 3C 273 Based on EMD-AR Spectrum
+Gamma-ray Bursts and Other Observations: Constraints on Cosmological Parameters and Dark Energy Models
+A method of real-time data reduction of asteroid optical observation image based on GPU
+DEGENERATE AND DISCRETE PHENOMENON IN STANDARD COSMOLOGICAL MODEL-FITTING WITH TYPE IA SUPERNOVA DATA
+Estimations of Planetary Occurrence Rates for Solar-type Stars with Data Release 25 from Kepler Q1-Q17 Observations
+Study of the stellar orbital eccentricity based on LAMOST survey
+Stellar orbital eccentricity and formation of thick disk of the Galaxy based on LAMOST
+A new ZZ Ceti star discovered based on the LAMOST survey
+A Supernova Recognition Method Based on NPSVM
+A Secondary Development of an RAO Management System Based on the Remote Telescope System-2~(nd) Version
+Photometric metallicity of the galactic halo based on SCUSS and SDSS
+A Study on the Fundamental Characteristics of Open Cluster NGC 6791 Based on SDSS-DR8 and 2MASS Data
+Gravitational Lensing Mass Reconstruction Method Based on Shapelets Basis Functions
+Continuous control for probe landing based on Terminal sliding mode
+HOVERING ORBITS DESIGN FOR PERTURBED ASTEROIDS WITH PARAMETRIC EXCITATION RESONANCE
+The Design of Ephemerides for Solar System Minor Bodies Based on Binary Tree
+Radial Velocities and Metallicities of Open Clusters Based on Mixture Model
+Fast Radio Burst Candidate Classification with Convolutional Neural Networks
+Reflectance of Asteroid 4179 Toutatis Based on Space Optical Image
+Integrated navigation based on X-ray pulsars and asteroids during interplanetary cruise
+STUDY ON EQUILIBRIUM POINTS CHARACTERISTICS OF BINARY ASTEROID SYSTEMS BASED ON THE MASS DIPOLE MODEL
+IMPULSIVE TRAJECTORY OPTIMIZATION OF KINETIC IMPACTOR MISSIONS FOR ASTEROID DEFLECTION BASED ON AN APPROXIMATION DEFLECTION MODEL
+Analysis of the Efficacy of Cooperative Space-Based and Ground-Based Observations of Near-Earth Asteroids Based on Solar-Terrestrial L1 Point of the Space-Based Observing System
+Research on Third-Order Analytical Solution Determination of Halo Orbits around Equilibrium Point of Asteroid
+Autonomous Asteroid Weak Gravity Field Measurement Method Based on Visual Navigation
+Simulation and Analysis of the Sampling Process of the Composite Asteroid Sampler Based on Brushing and Grinding
+The constraint ability of Hubble parameter by gravitational wave standard sirens on cosmological parameters
+Pre-study of LAMOST-Kepler/K2 project based on improvements in astronomical site conditions
+Asteroid Recognition of Dim Targets Based on Image Registration
+A New Smoothing Algorithm and its Application in Gravitational Lensing
+Autonomous Determination of Range and Attitude Based on an Asteroid Terrain Feature Database
+Asteroid Exploration Method Based on Shape Programming Theory
+Design and Implementation of the HXMT Data Retrieval/Publishing System Based on the Virtual Observatory
+Multi-star System Observations Based on the Direct-imaging Method
+Adaptive iterative learning based fault tolerant control for asteroid orbiting
+Target Pre-screening Method for Asteroid Exploration Based on Minimum Orbital Intersection Distance
+The Element Abundances in Metal-poor Stars and Nucleosynthetic Yield of SNe Ⅱ
+Emission Line Profiles and Images of Geometrically Thin and Optically Thick Accretion Disks
+The Effect of Metallicity on the Dynamic Evolution of Globular Cluster
+Analysis of Orbital Characteristics and Evolution of Near-Earth Asteroids (10302) 1989 ML and (4660) Nereus
+Investigation of Thermal Inertia and Surface Properties for Near-earth Asteroid (162173) 1999 JU3
+Preliminarily Astrometric Observations of NEO Apophis
+Ground-based Radar Detection of Near-Earth Asteroids
+Study on Strategy and Efficiency of Dynamic Push Away from Orbit for Near-Earth Asteroids
+Statistical Analysis of Discoveries and Discovery Scenarios of Near-Earth Asteroids
+STUDY ON EVOLUTIONARY ALGORITHMS FOR INITIAL ORBIT DETERMINATION OF NEAR-EARTH ASTEROIDS WITH TOO-SHORT-ARC
+Observability criteria for angles-only relative navigation to a near-earth asteroid
+Computation Methods for Impact Probability of Near-Earth Asteroids
+Survey and Risk Assessment of Near Earth Asteroids
+Hybrid optimization method for lunar gravity assist transfer trajectory to near-Earth asteroids
+Design and optimize scheme of transfer trajectory for near Earth asteroid exploration mission
+Analysis of Ground-Based and Space-Based Optical Observation System Warning Capability of Near-Earth Asteroids
+Grading Method for Impact Risk of Near-Earth Asteroids
+Response to Risk of Near-Earth Asteroid Impact
+[30] Garnett D R, Shields G A, Skillman E D, et al. ApJ, 1997, 489: 63 Spectroscopic Observations of the Star Formation Regions in Nearby Galaxies
+ACTIVITIES OF RESEARCH WORK IN THE FIELD OF ASTROMETRY IN CHINA
+Precision cosmology
+Jingdong 120-m pulsar radio telescope
+COSMOLOGICAL CONSTRAINTS OF RADIAL BARYON ACOUSTIC OSCILLATION MEASUREMENTS AND OBSERVATIONAL HUBBLE DATA
+The Time Dependent Numerical Simulation of Advection-Dominated Accretion Flow Disk
+Imprint on the Neutron Star Global Properties by Part of the Equation of State
+Study on Instability of Anomalous Viscosity Disk with Vertical Structure
+The Stellar Population of Post-starburst Quasars
+Review of the Spectral Effects of Space Weathering on C-type Asteroids
+Progress in the Researches of Fast Radio Bursts
+Fast Radio Bursts Statistics
+High-energy counterpart for fast radio bursts
+Detectability of Fast Radio Burst Optical Counterparts with the Future Chinese Wide Field Telescopes
+Estimates of the Dispersion Measures Contribution from Fast Host Galaxies of Radio Bursts
+Brief review of the study of supernova-like phenomena driven by rapidly rotating magnetars
+The physics of broad absorption line quasars
+The Status of Blue Straggler Studies(Ⅱ): Observational Properties
+Metallicity of Old Open Star Clusters and Study on the Evolution of Metallicity Gradient of Galactic Disk
+The Polarization Characteristics of Mercury-like Exoplanets
+The Correlation Between Radio Flux Density and Polarization Degree in Qua~r 3C 273
+The Period Analysis for Quasar 3C 273 in the Optical Band
+An Analysis of the Periods of the Radio Light Curves of the Blazar 3C 446
+Analysis of Multi-Wavelength Variation Periods of the Quasar 3C273
+The Infrared Variability of 3C 273
+The characteristic periodicity analysis of the radio flux variability of quasar PKS 1510-089
+Milky-Way-Like 2175 A Dust Extinction Feature Observed toward the Quasar SDSS J0916+2921
+The Unusual Absorption Line Spectrum of Quasar SDSS J2220+0109
+THE PROPERTIES OF QSO ABSORPTION SPECTRA OF SiII AND FeII
+The mystery of quasar power
+An Analysis of Quasar Mid-Infrared Spectra
+Relation between the Lyman-alpha Emission and Absorption Lines of Quasar Pairs
+The Relation between the Cerenkov Line Radiation of Superlight Electron and the Elision -Line Spectra of QSOs
+The Statistic Relation Between Quasars and Dark Matter Halos
+radial and transverse directions of quasars
+A Study of Absorption Redshifts of Quasars
+A Semi-analytical Model of Quasar Formation
+Steep Balmer Decrement in Quasars and Seyfert Ⅰ galaxies and Its Origin
+Study on Long-Period Variability Analysis Methods of Quasars
+Site selection evaluation of engineering geology of the Lenghu Saishiteng Mountain Observatory
+Application of Force Gradient Symplectic Algorithm to External-restricted Three-body Problem with two Stars and an Extroplanet
+An Overview of the BOOTES-4 at the Lijiang Observatory
+Radial Migration of the Galactic Disk Based on Super Metal-rich Stars in the APOGEE Survey
+Searching for radio pulsation from SGR 1935+2154 with the Parkes ultra-wideband low receiver
+Determination of mass and bulk density of asteroid (21) Lutetia using Rosetta radio tracking data
+CONSTRAINT ON COSMOLOGICAL MODEL WITH SN IA AND GAMMA-RAY BURSTS OBSERVATIONS: MATTER CREATION MODEL
+Detecting Supernova Neutrinos in Daya Bay Neutrino Laboratory
+Study on Vertical Structure of Thin Accretion Disks with Anomalous Viscosity
+Study of pulsational instability of accretion disks with anomalous viscosity
+Study of tidal deformabilities of neutron stars using relativistic mean field theory containing delta mesons
+Measure Distances of Supernova Remnants Using Red Clump Stars
+Description of Nuclear Matter and Neutron Stars in Density-dependent Relativistic Mean Field Theory
+CONSTRAINING THE ENERGY CONDITIONS WITH SUPERNOVAE DATA IN THE WHOLE SKY
+Discriminate Dark Energy Models with Statistics of Peak Counting and Scale-scale Correlation of the Weak Lensing Effect
+SEARCH FOR BARYON DARK MATTER IN THE MILKY WAY GALAXY WITH MICROLENSING EFFECTS
+Methods of Asteroid S/C Type Classification Using Color Index
+RESEARCH ON OPTICAL AUTONOMOUS NAVIGATION FOR MARS EXPLORATION BASED ON ASTEROIDS' LIGHT-OF-VIEW
+A Kinematical Study for the Galaxy Based on the Revised Hipparcos Astrometric Data
+Analysis of Q-type Near-Earth Asteroid Spectra with Modified Gaussian Model
+Constraints on the neutrino masses from particle physics experiments and cosmological observations
+Observations and Data Analyses of Two Type-IIn Supernovae
+Comparison of Two Methods for Calculating Properties of Rotating Neutron Stars
+Microlensing Simulation near the Critical Curve
+Analysis of the Characteristics of Engineering Implementation of NASA's Psyche Mission
+Candidates for Pulsar/Supernova Remnant Associations
+Construction of Database for Pulsating Variable Stars
+Studying the distribution and the origin of Galactic cosmic rays by meter wavelength radio observation
+Application of Close Encounters in Determining the Masses of Asteroids
+Commemoration of the Founding of the Observatory at the Phenix Mountain in Kunming at Its 70th Anniversary
+Self-Recovering Upright Bouncing Robot Design for Asteroid Microgravity Environment Exploration
+ARCJET ABLATION EXPERIMENT TO SIMULATE THE CHELYABINSK ASTEROID ENTRY
+Can the Moment of Inertia of Massive Neutron Stars be Used to Constrain the Hyperon Couplings?
+MEMBERSHIP AND SPATIAL MOTION OF YOUNG OPEN CLUSTER NGC 2244
+Formation of Carbon-Enhanced Metal-Poor RR Lyrae Stars
+Analyzing the Variations in the Spectral Energy Distribution of the Flat Spectrum Radio Quasar 3C 279
+The Medium and Long Period Light Variation Characteristics of FSRQ 3C 454.3
+On the 15GHz Radio Variability of Flat-spectrum Radio Quasar B3 0307+380
+Study on the Origin of Soft Photons for the Inverse Compton Mechanism in Flat-spectrum Radio Quasars
+Effect of strange mesons on the moment of inertia of proto neutron star
+Antikaon Condensation and Hyperons Production in Protoneutron Stars
+Influence of strong magnetic fields on inner crust of neutron star
+Electron capture of strong magnetic field in the outer crusts of neutron stars
+Cerenkov Line-like Radiation and the Origin of Broad Lines in Quasars
+Light Quark Matter Nuggets,Strangelets and Compact Dwarfs
+Preliminary results of solving geometric distortions for a CCD image
+The Gravitational Equilibrium of Spherically Symmetric Stars and the Oscillation near the Equilibrium
+The Tilt of Fundamental Plane: from Elliptical Galaxies to Globular Clusters
+Absolute proper motions of 534 stars in the region of globular cluster M3
+A New Red Variable Star in the Globular Cluster M4
+Another New Small-amplitude Red Variable Star with Period of about One Day in the Globular Cluster M4
+Proper Motion and Orbital Study of Galactic Globular Cluster M79
+ASTROMETRICAL REDUCTION AND MEMBERSHIP OF 169 STARS IN THE GLOBULAR CLUSTER M79 REGION
+Formation and Evolution of Globular Clusters (II): Models
+The Monte Carlo Simulations for Orbital Parameters of Globular Clusters
+Detection of Intermediate-Mass Black Holesin Globular Clusters
+Specific Frequencies, Metallicities and Mass Function of Globular Cluster Systems
+Pulsational Stability for Intermediate-and low-Luminosity Red Stars of Globular Cluster
+Recent advances in loop quantum cosmology
+Near 2 : 1 Mean Motion Resonance Capture and Orbital Evolution of A Hot-Neptune System: HD 106315
+The Progress of hot Subdwarf Studies
+Research on r-mode Instability in Hot Neutron Star
+Mechanics for Soft EOSs Supp orting Massive Neutron Stars
+Guidance and Control Law for Soft Landing Asteroid
+Autonomous navigation and guidance for soft-landing asteroid
+OPTIMAL WINDOW FUNCTION OF WEAK LENSING
+Weak Gravitational Lensing and Image Processing
+Controllable Jumping Behavior of Asteroid Momentum-driven Robot in Weak Gravitational Field
+A Study of the Seeing at the Weihai Observatory of the Shandong University
+TTHE SCIENTIFIC RESEARCH AND TECHNICAL WORK OF SHANGHAI ASTRONOMICAL OBSERVATORY IN 2003
+THE SCIENTIFIC RESEARCH AND TECHNICAL WORK OF SHANGHAI ASTRONOMICAL OBSERVATORY IN 2004
+THE SCIENTIFIC RESEARCH AND TECHNICAL WORK OF SHANGHAI ASTRONOMICAL OBSERVATORY IN 2005
+The modified on the driving system for the 25m antenna of Shanghai observatory
+The modified on the rotational speed for the 25m antenna of Shanghai astronomical observatory
+Spectral Line Observation and Data Calibration of Tianma 65m Radio Telescope
+Introduction of occultation simultation software SHAOOS
+The Installation and Testing of MK5A Terminal at Shanghai Astronomical Observatory
+A New Speckle Imager and Observations at SHAO
+Determination of Space Co-Location Sites in Coordinate Differences of Shanghai Observatory
+The status of SHAO's hydrogen masers research and their potential application prospects in satellite navigation system
+Precise Determination of the new SLR Station of Shanghai Observatory
+THE ATOMIC FREQUENCY STANDARDS RESEARCH AT SHANGHAI ASTRONOMICAL OBSERVATORY IN 50 YEARS
+Investigation of Variations in Double-Peaked Broad Emission Lines of Radio Quasar B3 1637+436A
+The Evolution of Radio Quasars with Cosmological Redshift
+The Black Hole Mass and Radio Characteristics of Radio Quasars
+An Analysis of Statistical Correlations between Black Hole Spin Values and Radio-Loudness Indices in Radio Loud AGN
+The Contribution to gamma-Ray Background From Radio Quiet Quasars
+Further Support from SDSS DR7 Observations to Accretion Disk-irradiation Hybrid Model for the Optical/UV Variability in Radio-quiet Quasars
+A quasi-real-time method for radio environment measurement of radio astronomical observatory
+Detection and Identification Method of Resident Electromagnetic Interference at Radio Observatory Site
+Spectral Indices of the Radio Sources
+The Correlations of Jet Power with Black Hole Mass and Spin in Radio Loud Quasars
+The Fundamental Plane of Radio Loud Quasars and X-ray Binaries
+The Application of Perturbation Method in Low-thrust Orbit Optimization
+Thermal Analysis on the Main Reflector in Deep-space Solar Observatory
+Study on the Selection of the Beacon Asteroids in Autonomous Optical Navigation for Interplanetary Exploration
+Selection and Planning of Asteroids for Deep Space Autonomous Optical Navigation
+A New Concept Scheme of Capturing a Near Earth Asteroid by Net-craft and Tethered Manipulator
+Laboratory study of hydrodynamic processes during the evolution of supernova remnants
+Influence of chiral symmetry spontaneous breaking on neutron star
+Two-point Correlation Function of Member Stars in the Open Star Cluster M67
+Red clump giants in open cluster M67
+LUMINOSITY FUNCTION AND SEGREGATION EFFECT OF THE OPEN CLUSTER NGC 6530
+Asteroseismic Analysis of Five Red Giants with Solar-like Oscillations in the Field of Open Cluster NGC 6866
+A PROPER MOTION STUDY FOR STARS IN THE REGION OF THE OPEN CLUSTER NGC2244
+On Membership of the Open Cluster NGC6530 and Its Space Motions from Proper Motion
+PROPER MOTIONS AND MEMBERSHIP PROBABILITIES OF STARS IN THE REGION OF THE OPEN CLUSTER NGC6530
+Mass Segregation of Open Clusters
+Recent Developments on Studies of Open Clusters
+METALLICITY DISTRIBUTION OF OPEN CLUSTERS AND ABUNDANCE GRADIENT OF THE GALACTIC DISC
+Compilation of the kinematical data of open clusters and some statistical analysis
+Binary Black Hole Merger and Retrograde Accretion onto Black Hole
+RESEARCH PROGRESS ON ORBITAL DYNAMICS ABOUT THE BINARY ASTEROID SYSTEM EXPLORATION
+Dynamics of Resonant Orbits in the Irregular Gravitational Field of a Binary Asteroid System
+Analysis of the Influence of the Mass Quadrupole Moment of Compact Objects on the Orbital Frequency in the Mass-to-mass Ratio Binary System
+The formation of double compact objects as gravitational wave sources
+A Statistical Study on Double Neutron Star Masses
+Searching for high-velocity stars in the globular cluster M22
+Searching for stellar-mass black holes in the Milky Way
+Spectral Classification of Asteroids by Random Forest
+A SURVEY OF GRANULAR DYNAMICS MODELING AND SIMULATION METHODS FOR RUBBLE-PILE ASTEROIDS
+Discrete Element Numerical Simulation of the Sspin Evolution Process of Rubble Pile Asteroids
+Lithium Depletion in the Solar Atmospere
+Scale Height of the Thin Galactic Disk in Solar Neighborhood
+The Progress of Exploring Extra-Solar Planetary Systems
+A Research on Observations of Transits of Extrasolar Planets
+Exploration of an Exoplanet: Commentary on the Nobel Prize in Physics 2019
+High-contrast Imaging Design and Numerical Simulation of Exoplanets Detection in Full-working Area
+The Detection Methods and Statistical Characteristics of Exoplanet
+The Recent Progress of Detection and Research of Exoplanets
+A Statistical Survey of Orbital Parameters of Extra-Solar Planets System
+Advanced of the Extrasolar Planets
+Detection of solar and supernova neutrinosthe 2002 nobel prize for physics
+Exoplanet Detection by Astrometric Method
+MAGIC: Matter in Astrophysics, Gravitational Waves, and Ion Collisions
+Cosmology application of the astrophysics originated gravitational wave
+Orbital Eccentricity of Celestial Motion-from Stars to Planets
+Astrodynamics and Celestial Mechanics
+Uniform Access to Astronomical Web Services and its Implementation in SkyMouse
+The Possible Constraints of Astronomical Observations on the Internal Structure of Neutron Stars
+Research Advance in Astronomical High-precision Wavelength Calibration Technology(Invited)
+Astronomical data indexing technologies review
+A Vista of Research in Astronomy: Stars and Stellar Systems
+Design of Resonant Orbit in Synchronized Binary Asteroid System
+Star Formation Properties of Cluster and Field Galaxies
+Analysis on adhesion stability of legged-type asteroid detector
+Scientific objectives and preliminary plans for EUV and X-ray observations of late-type stars
+Chemical Evolving Research of the Galaxy Under Grid Environment
+Astrometric Experiment for the 1m Telescope at Weihai Observatory
+Effect of temperature on the moment of inertia of proto neutron star
+The Effects of temperature on thermal protoneutron star matter
+Target analysis and low-thrust trajectory design of Chinese asteroid exploration mission
+Effect of equation of state on the dynamics of neutrino-driven wind from proto-neutron star
+Recent Advances in the Model for Jets Production from Accretion Disks
+Research on the Low Frequency Quasi-periodic Oscillations in Power Spectral Density of the Stochastic Oscillating Luminosity of Accretion Disk
+Accretion Disk Physics: Stability and Oscillations
+Research and Development of Hydrodynamic Escape from Exoplanetary Atmosphere
+Research Progress and Prospect of Exoplanetary Atmospheres and Habitable Exoplanet Sciences
+Exoplanet's Figure and Its Interior
+Searching for exoplanets and exo-life:On the 2019 Nobel Prize in Physics
+Photometric Observations and Study of the Transiting Exoplanetary System HAT-P-8
+Research Progress on the Transit Timing Variations in Extrasolar Planets
+Application of an Explicit Symplectic-like Integrator in Post-Newtonian Orbits of Double-rotating Exoplanet System
+A PLATFORM FOR MODERN ASTRONOMICAL RESEARCH AND EDUCATION- VIRTUAL ASTRONOMICAL OBSERVATORY
+Founding father of modern cosmology-James Peebles
+Influence of Effective Interactions in the Relativistic Mean Field Theory on Properties of Neutron Star
+Investigation on the Hyperonic Star in Relativistic Mean-field Model
+Relativistic Celestial Mechanics and Post - Newtonian Equations of Motion
+The Experiment for the Application of Mutual Approximation Technique to High-precision Positional Measurement of Asteroid 702 (Alauda)
+Photometric Observational and Modelling Study on the Asteroid (26) Proserpina
+The Determination of Spin Parameters for Asteroid （360） Carlova
+Orbit Determination of the Asteroid (469219) Kamooalewa and Its Error Analysis
+Photometric Study on Asteroid (58) Concordia
+A Brief Introduction to the Asteroids 2001 International Conference
+A Study of the Scientific Value of the Asteroid Icarus Laser Ranging
+The Review of the YORP Effect for Asteroids
+A Detectable Candidate for the YORP Effect of Asteroids
+Photometric properties of asteroid 8050 Beishida
+Progress of Thermophysical Investigations on Asteroids
+Infrared Spectroscopic Detection of Organic Matter on the Surface of Asteroids
+Advances in Site Selection Methods of Asteroid Sample Return Missions
+FORTRAN Programming for Initial-Orbit Calculation of Asteroids
+Asteroid Searching and Orbit Determination
+Study on Surface Anchoring Methods of Asteroids Lander
+Autonomous Navigation and Guidance for Asteroid Kinetic Impact Mission
+Research Progress in Asteroid Defense On-Orbit Disposal Technology
+Asteroid Landing Trajectory Dynamic Planning Method with Complex Topography Adaptability
+SENSITIVITY RESEARCH ON MODELS OF EARTH ENTRY AND IMPACT EFFECTS BY ASTEROIDS
+The Review of Thermal Models for Asteroids
+The Review of Thermophysics, Yarkovsky and YORP Effects for Asteroids
+DEEP SPACE EXPLORATION OF ASTEROIDS： THE SCIENCE PERSPECTIVES
+Multi-objective Optimization of Multi-impulse Rendezvous Trajectory for Exploring Asteroids
+Electromagnetic damping buffering characteristics of aster-oid probe upon encountering obstructions
+Stability analysis method of asteroid detector attached to gravel layer
+Overview of optical navigation for asteroid exploration descent and landing
+Design and Analyze Optimum Two-Impulse Transfer Trajectory for Exploring Asteroids
+Analysis of signal-to-noise ratio for space-based optical surveillance of asteroids
+Asteroid Database
+Experimental Study on Mechanical Response of the Asteroid Regolith during Low-speed Intrusion
+Ejection Mechanism Design of Asteroid Landing Attachment System
+Development and Experimental Analysis of Anchoring System for Asteroid Lander
+Development of the landing dynamic and performance of an asteroid landing mechanism
+Computation and simulation of global and local spherical harmonic coefficients of asteroid gravity field
+The Upper Boundary of Mass for An Imaginary Planet in the Main Asteroid Belt
+HYPERVELOCITY ISSUES OF EARTH IMPACT BY ASTEROIDS
+Analysis and Design of Asteroid Impact Defense Mission
+Research on Autonomous Guidance Navigation and Control Methods for Small Body Impact Detection
+Evolution of the Spin Periods of Neutron Stars in Low-mass X-ray Binaries
+Study on the Structural Temperature Field of XAO 25 m NanShan Radio Telescope under Solar Radiation
+Xinjiang Astronomical Observatory NSRT Data Storage System
+Taurus High Performance Computing System of Xinjiang Astronomical Observatory
+Data Retrieval from Xinjiang Astronomical Observatory's Pulsar Data Archive
+The Effect of New Progenitor Stars on Supernovae Explosion
+EPS Patterns in the Neolithic Age of China and Supernova Explosion
+Science Cases and the Conceptual Design for a New-generation Multi-beam Receiving System
+Progress in Study of Nucleosynthesis on Interstellar ~(26)Al
+Searching for the Stellar Streams
+The Researches of Open Cluster Membership Determination
+A Review about how to Remove the Comminations of Galaxy Intrinsic Alignment in the Weak Lensing
+Formation and Evolution of Globular Clusters in Galaxies
+Cosmological evolution of massive black holes at the center of galaxies
+Theoretical Model of Planet Formation and Classification of Planets
+The Current Research of Planetary Nebulae Distance Measurement
+The Virtual Solar Observatory and its Development
+Science, Tools and Applications of the Virtual Observatory
+Technology Progress of Virtual Observatory
+The Science of the Virtual Observatory
+Astronomy Education Resource Gateway Design Based on the Virtual Observatory
+Searching for extra-solar planets: A brief introduction to the Nobel Prize in Physics 2019
+The Searches of White Dwarfs in the Sky Survey Projects
+Effect of Pressure Gradient on the Prompt Explosion Energy of a Supernova Progenitor Ws12M⊙
+Pressure Gradient and the Supernova Explosion of Presupernova Model W_s15M_⊙
+The 21 Micron Feature in the Circumstellar Envelopes Around Highly Evolved Stars
+Crystalline Silicates in Evolved Stars
+YangWang-1 Space Telescope Space In-orbit Comprehensive Applications
+A New Theory for the Mechanic Equilibrium of White Dwarf Star
+A machine learning dataset for FRB detection in raw data
+A Practical Negative-Energy Spectrum System--The White Dwarf Star
+Jurkevich Period Analysis of a Blazar Sample in Radio Band
+Study and Application of a Temporal Model on the Multiwavelength Non-thermal Emission from Shell-type Supernova Remnants
+Global Search Strategy for Periodic Orbit near an Irregular Asteroid
+Design of a Multi-function Minor Planet Soil Sampler
+A Landmark Navigation Method for Asteroid Exploration
+A New Method of Open Cluster Membership Determination
+A Method of Trajectory Design for Manned Asteroids Exploration
+A Primary Target Selection Method for Human Asteroid Exploration
+Habitable planetary environments and extraterrestrial life
+Integrated Access of Distributed and Heterogeneous Astronomical Data Resources
+The Dynamic Influence of Thin Disk Formation on the Galactic Bulge
+Formation and evolution of the Milky Way galaxy
+The Galactic Aberration and Its Impact on Astronomical Reference Frames
+The Galactic Survey in Optical and Infrared
+The Extinction Laws and Dust Properties of the Milky Way and External Galaxies
+Progress in Studyon the Age-Dating of the Galaxy by Nucleo-Cosmochronology
+A Possible Dynamical Origin of the Vertical Metallicity Gradient in the Milky Way Bulge
+Progress of Detections of Stellar Tidal Streams around the Galaxy
+Age-Metallicity Relation of Stars in the Galactic Thick Disk
+New Progress in Chemical Abundance of Galactic Thick Disk Stars
+The Thick Disk of the Milky Way Galaxy and its Formation Mechanisms
+Study on the Aluminum Abundance of Stars in the Milky Way
+Barlike Structure in the Inner Galaxy
+Current Investigations on Young Star Cluster NGC 3603 in X-ray
+Monte Carlo Simulation of Distribution of Orbital Parameters for Globular Clusters in the Galaxy
+Statistical Research on Radio Pulsars in Globular Clusters of the Milky Way
+Review of Galactic Very Faint X-ray Transients
+Research Progress on the Searching of Satellite Galaxies of the Milky Way and Their Physical Properties
+Progress on the study of the Milky Way satellite galaxies
+The Research of the Milky Way's Accretion and Merger Origin
+The Spatial Distribution of the Galactic Intersteller Extinction: Current Status
+Probing the Spiral Structure and Kinematics of the Milky Way with VLBI Techniques
+New Progress of Lithium Abundance in the Early Galactic Evolution
+Distance of the perseus spiral arm in the Milky Way
+THE DETERMINATION OF KINEMATICPROPERTIES OF THE GALAXY
+Approaches for Measurements of the Mass of the Milky Way Galaxy
+Orbital Calculation of G Spectral Type Globular Clusters in the Galaxy
+Bubbles in the Milky Way Galaxy
+Space Distribution and Motional Orbits of Globular Clusters in the Galaxy
+A supermassive black hole at the center of the Milky Way
+Progress in Research on the Variability of Sgr A~*
+The Supermassive Black Hole in the Galactic Center and Its Implications
+The observed evidence of both invalidating black hole model at the galactic center and magnetic monopole existence
+Rotation Curve Determination of the Milky Way Galaxy
+Study on the Age-metallicity Relation of Disk Stars of the Galaxy
+Disk Stellar Kinematics and Abundance with the Galactic Structure
+Gravitational-wave standard siren and cosmology
+Electromagnetic counterparts to the gravitational wave event GW170817
+Gravitation Wave and Gravitational-wave Sources
+Gravitational Lensing and its Applications
+Gravitational Lensing and the New Method in Weak Gravitational Lensing
+Identification of the Absorption Line of Gravitational Lensing Quasar SDSS J1001+5027
+Research of the Absorption Lines of Gravitational Lensing Quasar SDSS J1004+4112
+The distribution of the lensing probability
+Constructing Data Nodes of the China-VO with the MapReduce
+Wavelet Analysis of the Variability Periodicity Data of Quasar 3C 345
+Studying the Inner Density Profiles of DM Halos Using Strong Gravitational Lensing
+Research of Ion Thruster Beam Supply Topology for Asteroid Exploring
+Principal Components Analysis for Equivalent Widths of Globular Clusters
+Analysis and Evaluation of Mapping Orbits in the Vicinity of Co-Orbital Asteroids
+Cosmic Expansion and Cosmological Distances
+An Approximate Analytic Formula for Polarization of Cosmic Microwave Background Radiation
+Testing CPT symmetry with the cosmic microwave background radiation
+The Origin of Cosmic Rays from Supernova Remnants
+The cosmological constant problem
+Degeneracy and discreteness in cosmology models
+80 years developments in cosmology
+Influence of Nuclear Symmetry Energy on Neutron Star Crusts
+High Z Galaxies and Exoplanets
+Photometric Accuracies of the YNAO 1.2m Telescope
+The Thermal Analysis of the Primary Mirror of 1m Infrared Solar Telescope at Yunnan Observatory
+Development and Testing of An S-band Flux Measurement System for the 40m Radio Telescope of the Yunnan Observatory
+Observations of Extragalactic Radio Sources with the 40 m Radio Telescope of the Yunnan Observatory
+Precision Orbit Determination at the Yunnan Observatory
+Video Instruments Observations for Meteors in Yuanan Observatory
+The Detectors of Satellite Laser Ranging in Yunnan Observatory
+Yunnan Observatories Hand-painted Sunspot Data System
+Impact of the Catastrophic Photo-z Error on the Dark Energy Equation of State Parameters by the Method of Baryon Acoustic Oscillations and Weak Lensing
+Approaches to Mass Reduction of Spacecraft System in Manned Exploration to Near Earth Asteroid
+Mission Mode of the Human Asteroid Exploration
+Study on Manned Asteroids Exploration Mission Architecture
+Trajectory Design of Crewed Exploration to Asteroid
+Target Selection for Manned Asteroid Mission
+Conceptual Study of System Schemes of Manned Asteroid Exploration Spacecraft
+Two-impulse transfer trajectory design and optimization for manned asteroid exploration
+Developments in Observational Studies on the PL Relation of Cepheids
+NLSIs with Soft X-ray Excess of Possible Disk Origin
+The Influence of Viscosity on the Truncation of Accretion Disk Around Black Holes
+Variable Structure With Sliding-Mode Control for Landing on Asteroids
+Line-of-sight Measurement Based Autonomous Optical Relative Navigation Algorithms for Asteroid Landing and Observability Analysis
+Research on the optical variability of oscillating disk
+Determining cosmological parameters with global fitting analysis
+Properties of Dense Matter and Equation of State for Supernovae and Neutron Stars
+Dense Matter Equation of State: Neutron Star and Strange Star
+Mass Segregation of Compact Star Clusters and its Origins
+Research on the Second Region of Sino-German 6 cm Polarization Survey of the Galactic Plane and Large-scale Supernova Remnants
+Stellar Proper Motion Study of Crowded Stellar Field of CSST
+Investigation and Analysis of Core Functional Requirements of China VO
+The Development and Application of the Cross-match Tool of China-VO
+Visualization Service of Chinese Virtual Observatory
+Integrating Legacy Software Toolkits into China-VO System
+Data Access Service of China-VO
+Architecture of Chinese Virtual Observatory
+Research and Development Strategy and Focuses of Chinese Virtual Observatory
+Resource Information Management in Chinese Virtual Observatory
+Neutrino Leakage and Supernova Explosion
+Thickness of Neutron-skin in 208Pb and Radius of a 1.4 Solar Mass Neutron Star
+Theoretical Explanation of kHz QPOs in Neutron Star Low-Mass X-Ray Binaries
+Constraints of neutron star on new interaction of spin-dependent axial-vector coupling
+The influence of strong magnetic field on beta decay in the crusts of neutron stars
+Correlation Between Neutron Star Observation and Equation of State of Nuclear Matter at Different Densities
+Hadron-quark Phase Transition with Finite-size Effect in Neutron Stars
+Study of the Gravitational Energy in Neutron Stars
+Deconfinement phase transition in neutron stars and astronomical tests
+The Challenges of Neutron Star Studies
+Investigation of Spindown of Neutron Stars
+A Statistical Study on Neutron Star Masses
+Study on Mass Distribution and Birth Mode of Neutron Star
+Binary Origin of the Neutron Star Central Compact Objects
+Revisiting the neutron star-white dwarf binary model of FRB 121102
+The White Dwarf-neutron Star Binary Model of Repeating FRBs
+Revisiting the White Dwarf-Neutron Star Binary Model on the Periodic Activity of Repeating FRBs
+Dynamical Simulation of Asteroids in the Main Belt
+Accessibility for the Main Belt Asteroid Exploration and Trajectory Design for Multiple Asteroids
+Impact analysis of the main asteroid belt on the long-term dynamics of Mars orbit
+The V Band Empirical Mass-Luminosity Relation for Main Sequence Stars
+The Image Processing and Analysis for the Broad-band Solar Fast Spectrometer at 4.5-7.5 GHz in P.M.O
+Calibration of Solar Radio Spectrometer of the Purple Mountain Observatory
+Proper Motions and the Frontier of Studies on the Galaxy
+Research on high-contrast imaging performance of 1.8 m telescope sodium beacon adaptive optical system
+A Preliminary Analysis of A Complex Solar Burst on Sep. 23, 1998 by the Joint Radio Observations
+1RXP J160338+1554?1: A LUMINOUS LINER
+Upgrading the Solar Radio Flux Telescope with the Frequency of 2.84GHz
+Development of the Target Searching System for the 2.4 m Telescope
+A Study of Technologies of Coating on the Primary Mirror of the 2.4m Optical Telescope of the Yunnan Observatories
+What can we learn fromthe nobel prize in 2002
+Anomalous Variations of Daily Residual Fluctuations of Astronomical Time of the Astrolabe in the Yunnan Observatory during 2008-2009
+Top astronomy events in 2017
+Review of hot topics of space science in 2018
+Hot topics review of space science in 2019
+Top astronomy events in 2022
+Radio Imaging and Structure Effect Analysis of 298 VLBA Calibrator Sources
+A Brief Introduction on the Significance and Achievements of 2MASS
+Radio Time Profiles and Magnetic Configurations of Two 2-step Triggering Solar Flares
+Analysis for Time Lag Between gamma-ray and NIR Variations in 3C 454.3
+Comparison and Analysis in Variation among 3C 345, 3C 273 and 3C 279
+gamma-Ray Variability of 4C 21.35 and its Correlation with the Radio Variability
+The Amendment of the Optimum Geometry Based on Four Satellites
+borne white-light coronagraph:I.Basic structure and experiments on the ground
+Principle and application of precision forming for panel of 65 m radio telescope
+Orientation Precision Monitoring and Homing Strategy of the Subreflector Adjusting System for 65 Meters Radio Telescope
+The Analysis of the Effect of Turbulent Stress on the Evolution of the Star with 8M⊙
+X-RAY PROPERTY OF ABELL 1835 OBSERVED BY XMM-NEWTON
+Differences in Power Law Index Distribution of Hard X-ray Light Curves of AGN Subclasses
+Applications of Accelerator Mass Spectrometry to Nuclear Physics and Atrophysics
+The Database Management Analysis for the ASO-S Science Operation and Data Center
+The Long-term Light Variation of BL Lac Object 1ES 1959+650
+Analysis of Quasi-periodic Variability in the Optical Light Curve of Blazar 3C 66A
+Progress in the Stellar CCD Photometric Methods
+The Statistical Analysis of Color-Color and Color-Orbital Parameter Relations of Centaurs
+CGC 2 Ephemeris Framework
+Effect of Coriolis and Centrifugal Perturbation upon the Locations and Linear Stabilities of Equilibrium Points in the Robe Problem
+The Star-forming Evolution of Galaxies with Redshift in the COSMOS Field
+Progress in the DAMA experiment
+Numerical Analysis of Variability Indices of EGRET Gamma-Ray Sources
+FAST 19-beam Drift-scan Pulsar Survey Simulation
+Improved multi-beam unit layout and orthomode transducers for FAST
+The Correlations between Radio and-ray Emissions in Multi-bands for Fermi Blazars
+Energy Mechanisms of gamma-Ray Bursts
+The Correlation Between gamma-ray and Radio at 8.4 GHz Emissions for gamma-ray Loud Blazers
+The localization method of GECAM and simulation analysis
+The GECAM and its payload
+The Application of GIM in Precise Orbit Determination for LEO Satellites with Single-frequency GPS Measurements
+The Study of the Earth-like Planets in the GJ 876 Planetary System
+GOCE Program and its Applications
+Applying GPU Parallel Computing Technologies to Process Herschel Far Infrared Galactic Plane Survey Data
+The Lorentz Factor and Viewing Angle of GRB 170817A
+Expectation on observations of Fermi-LAT gamma-ray sources using the HADAR experiment
+Prospective study on observations of gamma-ray emission from active galactic nuclei using the HADAR experiment
+The Formation and Stability of Configuration on Planetary System Around HD12661
+Element Abundance Analysis of HD 140283 and Astrophysics Sources of Weak r-process Elements
+Stability and 2:1 Resonance in the Planetary System HD 82943
+Study of Radio Continuum Emission in HI Absorption-line Galaxies
+Two-Epoch Series of Precession Quantities in IAU 2000 and Post IAU 2000 Precession-Nutation Models
+The Research Progress of Multi-Peaked Type-I X-ray Bursts
+Comparisons and Evaluations of JPL Ephemerides
+Tidal Evolution of the Kepler Candidate Two-planet Systems
+Emission Line Profiles of Warped Disks in a Kerr Spacetime
+Orbit Distribution Nature of Kuiper Belf Objects
+Simulations for Original Distribution of KBO_s
+LHAASO and the origin of cosmic rays
+Investigation and Precision Analysis on Space-borne GPS KPOD with LP Estimation
+The Proximity Effect of Lyalpha Forest in High-Resolution
+Spectroscopic Observation and Research of Objects in M31
+Chemical Evolution of M33
+Observational and Research Progress of the M51 Galaxy
+The Origin and Significance of Framboidal Magnetite in the Murchison Meteorite
+The Batch Processing Method of Continuum Subtraction for Narrow Band Survey
+The Orbit of Binary Black Hole OJ287:A 3.5th Post-Newtonian Order Calculation
+The Periodicity Analysis of the Radio Flux Variability about PKS 1510-089 with Period04 Method
+The Influence of pi^- Meson Condensation on Neutron Star Matter
+Algorithm Optimization and Parallelization of PRESTO Single Pulse Search
+A BRIGHT SEYFERT IDENTIFIED FROM RASS SOURCES
+The correlation between broad-band spectral index and peak frequency for RBLs and FSRQs
+Application of RFI Mitigation Technology in Radio Astronomy
+Optical Identification of ROSAT Survey X-ray Selected AGN
+Electromagnetic Fields of a Slowly Rotating Magnetized Neutron Star in Saa's Model of Gravity with Torsion
+Introduction of SAGE Survey Ⅱ-The Determination of Stellar Atmospheric Parameters
+The measurement and study of star formation rate of pairs of galaxies from SDSS DR9
+The Lyalpha Absorption-Line Systems of SDSS J101108+553407 with Zabs>Zem
+Search for Opitcal Microvariability in SDSS J125438.25+114105.8
+Analysis on the Accuracy of the SGP4/SDP4 Model
+The Structure and Variability of Sagittarius A~*:Zooming into the Supermassive Black Hole at the Galactic Center
+Operation Status and Data Analysis for SOHM Hydrogen Masers Running at NTSC
+Extensions of Stackel Gravitational Potential Theory and Their Application in Galactic Modeling
+Gamma-Ray Bursts and Afterglows:a Multi-Wavelength Study in the Swift Era
+The Cannon:a Data Driving Approach to Stellar Label Determination
+Pointing Model Establishment of TM65 m Radio Telescope
+Study on reading of Tycho-2 star catalog and calculating of star precise apparent position
+capability and observation strategy of WFST-like telescope for kilonovae
+The correlation between broad-band spectral index and luminosity for XBLs and FSRQs
+The Time Equation of Light Propagation in XNAV
+Investigation Progress of the Cyclotron Resonance Scattering Features in X-ray Binaries
+Wavelength Calibration of the Xinglong HRS with a Laser Frequency Comb Device of a Yb Fiber Laser
+Einstein Probe: Exploring the ever-changing X-ray Universe
+Dark energy observations:Present status and future development
+Astronomical Approach of Dark Matter Detection
+Dark matter particle explorer and nearby cosmic ray electron source
+Populating galaxies in dark matter halos
+Method of Television Real-time Detection on Dark and Small Stars Targets in the Daytime
+The Assessment of the Semi-analytical Method in the 100-Year Orbit Prediction of Earth Satellites
+The Effect of Bar on Nuclear Star-forming Activities in Nearby Spiral Galaxies
+The Effects of Bar Sturcture on the Central sSFR of Spiral Galaxies
+Hadron-Quark Mixed Stars Containing Fermion Dark Matter
+A Note on the Numerical Method for Conserving the Runge-Lenz Vector
+Comparison and Analysis of BeiDou Satellite Single-system Precise Orbit Determination
+STUDY ON THE COSMOLOGY COURSE AT PHYSICS ASTRONOMY DEPARTMENT OF UNIVERSITIES IN NORTH AMERICA
+Estimates of the Dynamical Mass of the Local Group of Galaxies
+New observational evidence for a closed Universe and crisis for cosmology
+Distance Determination to Variable Stars from Their Light Echoes
+The effects of radial velocity on line profiles from standard thin disk
+Smooth Connection of Standard Thin Disk with Advection-Dominated Accretion Flow
+Analysis on Pointing Calibration by Stars Based on WLMS
+Analysis of the Capability of Chang′E-4 Low Frequency Radio Spectrometer 2C Data in Detecting the Dark Ages
+Science and Technology Problems in Tracking and Orbit Determination for Chang'e Probes
+Evidence for Retrograde Accretion onto Supermassive Black Holes
+Fine Radio Solar Structures of Super-High Temporal Resolution and Associated Solar Activities
+Where are the origins of ultrahigh-energy cosmic rays?
+Momentum Transfer Law of Hypervelocity Kinetic Impacting Dense Asteroids
+Development of Solar Radio Spectrometer With Ultra-wideband and Ultra-high Resolution
+Influences of Hyperon Coupling Constant on the Properties of Neutron Star
+Potential Depth of in Nuclear Matter and Moment of Inertia of a Proto Neutron Star
+The effect of tidal torques on the structure and evolution of rotating stars
+Constant Systematic Error Correction in Initial Orbit Determination
+The Bootstrap Estimation of the Accuracy of Preliminary Orbit Determination
+A New Method to Calculate the Time Delays in Blazars
+The insight of FAST: From the identification link between the guest star of Song dynasty in China and the pulsar one thousand years ago to the Needham Puzzle
+Open the Gate to New Physics World-Strategic Priority Research Programme of Jiangmen Underground Neutrino Observatory and Its Progress
+A Study of Detector Response and Filter Optimization for the Wide Field Survey Telescope
+Orbit Lifetime Research of GTO Space Debris
+Interstellar Extinction in the Magellanic Clouds
+Development of large-aperture radio telescopes and applications of coupled structural-electromagnetic theory
+A Statistical Study of A Large Sample of Changing-look Active Galactic Nuclei with Multi-frequency Radio Sky Surveys
+RESEARCH ON WINDS OF HOT MASSIVE STARS
+Massive star formation： theories and observations
+The Massive Star Formation:Molecular Out ow and Extended Green Object
+A Sensitive Survey of Dense Parts of Outflows toward Massive Cores
+Kinematics of H_2O Masers in Massive Star Forming Regions
+Progress in Study on the Evolution of Massive Stars
+Composition and Structure of Massive Protoneutron Star PSR J0348+0432
+Chaotic Motion of Charged Test Particles in a Magnetized Schwarzschild Black Hole
+Attitude Determination of the Star Sensor with the Star Proper Motion Correction
+The Mathematical Model of Unit Vector Method and the Iterative Method for its Simplification
+Unit-Vector-Method for Preliminary Orbit Determination with Range Data of Single Arc at Single Station
+Research on Almanac Parameters Fitting Algorithm for Navigation Satellites
+Calibration Models and Their Simulations for an AGU of an Altazimuth Telescope
+An Estimation on the Long-period Tendency of the Tidal Evolution of the Earth-lunar System
+The Characteristics and Related Problems of the Orbits Around the Earth-Mo on Libration Points
+The Analysis of the Radio Light Curves of Low-peak Frequency Blazars
+Mass Relation Between the Black Hole and the Bulge for Low Redshift AGNs
+Radiation Study on the Radio Pulsars with a Low Spin-down Energy Loss Rate
+The Design and Implementation of a Low Frequence Radio Antenna Array Digital Terminal
+Tidal Evolution of the Kepler Planets with Radii Less than 4 R_
+Challenges in string theory and cosmology
+An Introduction of the 3rd Realization of the International Celestial Reference Frame (ICRF3)
+Lensing reconstruction in the third generation of ground-based small aperture cosmic microwave background telescope
+The inflationary universe
+When and how did the first stars and galaxies form?
+Decay of electromagnetic waves in vacuum and cosmological redshift
+Landau level stability coefficient of electrons and its applications to strongly magnetized neutron stars
+On the Transfer and Control of Spacecrafts Around the L1 Point of the Sun-Earth+Moon System
+The Processing and Classification for the Spectra of Six Comets
+Theoretical Analysis of X-ray Cyclotron Absorption Lines for the Isolated Neutron Star 1E1207.4-5209
+Understanding of Jeans Rule
+Computing and analysis of gravity field of Eros433 using polyhedron model
+Bayesian Model Selection of Unified Neutron Star EOSs in Multi-messenger Era
+Orbit Determination with Mixture Observations of Multiple Objects
+The Second-order Post-Newtonian Orbit Equation of Light
+Teaching cosmology over a 20 year period
+Solar Radio Radiation Events Occurred in the Meter Waver Band
+The Effect of Anomalous Dissipation on Magnetic Rotating Instability
+Correlation Analysis for gamma-ray and Broad Line Emissions of Fermi Blazars
+Unscented Kalman Filter and Its Application In GPS-Based Satellite Orbit Determination
+The Effect of Radiative Efficiency on the Growth of Black Hole Mass
+The Stability for the Negative Energy Spectrum Systems
+Equipotential Surface and Normal Gravity of the Galilean Satellites
+High energy emission from gamma-ray bursts
+Progresses in the Researches of Gamma-Ray Bursts and their Afterglows
+Measurements of Local Atmospheric Absorption on the Solar Radio Emission at Jingta Region of Gansu
+The Dynamics of C IV Broad Emission Line Region in Low and High Redshift AGN Samples
+Studies of High-Redshift Low-Luminosity AGNs
+A Study of High-redshift Star-forming Galaxies
+Galaxy structure and morphology at high redshift
+Physical Conditions of the Interstellar Medium in High-redshift Submillimetre Bright Galaxies
+Notes on High Precision Aperture Photometry of Stars
+Systematic Error Correction for High Trajectory Optical Measurement Based on Fixed Star
+Some Recent Progress in the Field of High Energy Density Laboratory Astrophysics
+A Study on the Celestial Phenomena and Chronology Recorded in the Ancient Text and the Modern Text of the Bamboo Annals
+On-orbit calibration of stellar camera considering distribution of star image points
+On the Position Measurement Equation of XNAV
+BeiDou-G2: Past and Present
+A Note on Supersonic Convection in Stellar Atmosphere
+On Problems Concerning the Location of Space Detectors on Special Points of the Solar System
+Cosmological evolution for a brane universe model
+A Study of Aeronautical Signal Processing Method for Radio Telescope Station
+On the development of NASA's next generation flagship scientific mission WFIRST
+Problem About the Formation Flying of the Constellations' Small Satellites
+Two Problems for the Motion of Low-Moon-Orbit Satellite
+PERFORMANCE STUDY OF THE NEW CCD CAMERAS OF YUNNAN OBSERVATORY
+Note on the CCD Flat Fielding at the 2.4-m Alt-azimuth Reflector of Yunnan Observatory
+RECENT PROGRESS ON OBSERVATIONAL COSMOLOGY
+The deflection angle when a light goes over through the surface of a star
+Constraints on the interacting dark energy with Hubble parameter data and other observational data
+Neptune Trojans: a Revisit and a New Member
+Research on the Stability of the Circular Restricted Three-body with Radiation and Oblateness
+Energy Radiation of Collapsing Celestial Body Possessing Electric and Magnetic Charges
+Thick disks in External Galaxies
+Energy-momentum Tensor of Electromagnetic Field Outside Neutron Star With Magnetic Moment
+Symmetry Energy in Nucleon and Quark Matter
+A Study of the Method for Software-Development Management of the Herschel Science Ground Segment
+The Possibility of Hydrogen-like and Helium-like Iron Kalpha Line Emission from the Black Hole X-ray Binary
+Black Hole Hyperaccretion and Gamma-ray Bursts
+The Temporal Phenomena during the Outburst of the Black Hole Candidate MAXI J1535-571
+Light propagation in the strong gravitational field of pulsar-black hole binary system
+Studies on Stochastic Model of Accreting Black Holes
+The Recent Progress in the Theory of Black Hole Accretion and its Astrophysical Applications（Ⅱ）
+Accretion of Diffuse Medium around Black Holes:the Model and Applications
+The Temporal Phenomena of Black Hole Transient XTE J1650-500 in Its 2001-2002 Outburst
+Quasi-periodic Oscillations in Black Hole Transients
+Evidence for Black Holes
+Laboratory Studies of Pre-solar Grains： Experimental Astrophysics
+The Effect of the Initial Mass Function on the Burst Rate of GRBs
+Survey of Stellar Atmosphere Parameter Estimation
+The Recent Progress in the Study of Lithium non-LTE Effects in Stellar Atmospheres
+A Research on Properties of a k-w Model in Stellar Convection
+Random ground vibration response of the optical delay line system of a stellar interferometer
+Research on the Application of Fast-steering Mirror in Stellar Interferometer
+Main control system for a stellar interferometer
+Research on the active mirror system of the stellar interferometer
+Measuring the Tip-tilt Angles of the Active Mirror in the Stellar Interferometer
+Fluctuations in stellar nuclear reaction-diffusion system
+The Effect of Stellar Spots on the Apparent Magnitude,Colour and Apparent Lithium Abundance of Stars
+CORRECTION TO beta DECAY PHASE SPACE FUNCTION IN STELLAR ENVIRONMENT
+Stellar-mass binary black holes:Inspirals and their detection
+Adiabatic Mass Loss Model in Binary Stars
+Supersonic Convection in the Stellar Interiors
+The Influence of Electron Screening on beta-Decay Rate in Stellar Interior
+Oscillations excited by g-T effect in the core nuclear eaction system of stars
+Research Progress in Numerical Simulation Study of Star Formation Based on Radiation Hydrodynamics (Magnetohydrodynamics)
+The Astronomical Phenomena in the Process of Star Formation
+A Study on the Molecular Lines of CO Isotopes in the Star Forming Region AFGL 5157
+NIR Observations of the Star Forming Region GGD12-15
+Molecular Cores and Young Clusters of Star Forming Regions
+Extinction in the Infrared toward Star Formation Regions
+Research Progress of the Main Sequence of Star-forming Galaxies
+Research Progress of the Star-Forming Main Sequence
+The Neutrino Energy Loss of Nuclides by K-shell Continuum State Electron Capture at the Late Stage of Stellar Evolution
+Study of Neutron Source Reaction ~(13) C(alpha,n)~(16) O in Stars
+The Origin of Long Secondary Periods Red Variables
+Absolute Magnitude of the Red Clump and its Applications in Distance Determination
+Star Formation in the Infrared Bubble N109
+The Influence of Redshift Distortion on the Cosmic Voids
+The Coordinate Additional Perturbations to h/lars Orbiters and the Choice of Corresponding Coordinate System
+Protoplanetary disks surrounding the stars: The birth cradle of planets
+Simulation of Precise Orbit Determination for a Lunar Orbiter
+Influence of mixing parameters on the structure and evolution of low-and intermediate-mass stars
+Progress on FeⅡ Emission Lines of Active Galactic Nuclei
+Gamma-Ray Emissions of AGN and Cosmological Standard Candles
+Numerical Simulations of Active Galactic Nucleus Feedback
+Observational and Theoretical Progress for Radio Extended Regions in AGNs
+Jet Formation in Active Galactic Nuclei
+Quasi-periodic Oscillations in Active Galactic Nucleis
+Black Hole Mass and Precession in Active Galactic Nuclei
+Analytical Solutions of Coupled Perturbation of Tesseral Harmonic Terms of Mars Orbiters under Nonspherical Gravitational Potential
+Formation mechanisms of space weathering products:Apollo lunar soil and simulation experimental study by ordinary and carbonaceous chondrites
+Automatic Control of Astronomical Dome Based on ASCOM and PLC
+The X-ray Emissions of AGNs Based on the Observations From Chandra
+A Scheme of GPU-Based Parallel Optimization of the HOTPANTS Software Package
+The Research and Test of Fast Radio Burst Real-time Search Algorithm Based on GPU Acceleration
+The Analysis of the Southwestern Landwater Storage Based on GRACE Data
+Binary Fractions Based on the LAMOST RGB and RC Data
+Design and Implementation of Automatic Photometry Program Based on Python
+An Automated Method of Selecting Galactic Stars with DIB Features from the SDSS
+Research on Observable Frequency Band Analysis of Solar Radio Current in L-band Based on Simple Thresholding and CUSUM Joint Algorithm
+Research on Star/Galaxy Classification Based on Stacking Ensemble Learning
+Design and Implementation of China-VO Ephemeris Computing Service Based on Web Services
+Research on Star/Galaxy Classification Based on XGBoost Algorithm
+Research on the Limb Sensor for the FMG Image Stabilization System
+Power Splitting Characteristic of Star Gearing based on Deformation Compatibility
+Star-galaxy separation by the residual neural network algorithm
+Orbit Prediction Algorithm of LEO Satellite Based on Optical Measurement in Short Arc with Single Station
+Simulation of Autonomous Navigation for GEO Spacecraft Based on Horizon and Star
+Stacked Denoising Autoencoders Applied to Star/Galaxy Classification
+Low-frequency Radio Interferometric Array Imaging Pipeline Optimization Based on Distributed Execution Framework
+The optical variability analysis of quasars based on fractal Brownian motion in Sloan digital sky survey
+Sampling and recovery of radio astronomy signals based on improved Modulation Broadband Converter
+Suppression of drift-scanning star based on standardized linear filter
+New Metal-poor Star Candidates from Guo Shou-jing Telescope (LAMOST) Commissioning Observations
+Estimation of Distribution Algorithm for Initial Orbit Determination of Too-short-arc Based on Kernel Density Estimation
+Attitude Determination Algorithm Based on Star Sensor
+Research on Star Tracking Algorithm Based on Star Vector Difference
+Star image filling based on stellar image point trajectory
+Application of Single-Pulse Search Candidate Identification Based on Machine Learning to FAST Observation CRAFTS Data
+Residuals and Analysis of Geometric Distortion Correction of CCD Images Based on Geometric Distortion Pattern
+Stellar Spectral Classification Based on Capsule Network
+Search of Exploration Opportunity for Near Earth Objects Based on Analytical Gradients
+Study on Orbit Prediction Error of Space Objects Based on Historical TLE
+Study on Low-Thrust Transfer Trajectory Optimization Based on Impulse Initial Value
+Cosmological Multi-Body Simulation Based on Sunway TaihuLight
+Kinematic Precise Orbit Determination for LEO Satellites Using Space-borne Dual-frequency GPS Measurements
+Analysis of Target Positioning Accuracy Based on Method of Double Satellite Optical Tracking
+Analogue Simulation and Orbital Solving Algorithm of Astrometric Exoplanet Detection
+Detection of Faint Asteroids Based on Image Shifting and Stacking Method
+The Efficient Indexing and Fusion Algorithms for Large-scale Catalogs Based on File
+Novel inertial stellar compass based on gyroscope-free micro inertial measurement unit
+A Short-term Scheduling Method Based on Linear Programming for Yunnan 40-meter Radio Telescope
+Performance Analysis of Satellite Clock Bias Based on Wavelet Analysis and Neural Network
+Lucky imaging system on the 50 cm telescope at Xinglong observatory
+Automatic Normalization Method of Stellar Spectrum Based on Spline Function
+Genetic Algorithm for Initial Orbit Determination with Too Short Arc
+Genetic Algorithm for Initial Orbit Determination with Too Short Arc (Continued)
+Initial Orbit Determination Based on Intelligent Optimization Algorithm
+Classification of stars/galaxies based on AutoClass
+Computing the Period of Light Variability in Blazar Objects 3C 279 and OJ 287 by Auto-regressive Spectral Analysis Methods
+Research on the lVIethod of Orbit Determination Based on the Self-adaptive Stable Least p-norm Estimate
+Investigations on the Observations of Three Types of Periodic Oscillations in Cataclysmic Variables
+The Photometry of Cataclysmic Variable V1159 Ori and BZ UMa
+Progress and Thinking for the Application of Laser Array Directed Energy in Planetary Defense
+Study on the Photometric Accuracy Evaluation of 280 mm Rotatable Photoelectric Array in Jilin Astronomical Observation Base
+Generation of Europium in Metal-Poor Halo Stars
+Photometric reverberation mapping of several active galactic nuclei
+On the Numerical Stability for Some Symplectic Integrators
+A Modified Gooding's Method to Calculate Inclination Function
+Contribution of Accelerometer Data in CHAMP Precise Orbit Determination
+A Possible Formation Mechanism of Venus's Abnormal Rotation
+The Application of Quasi-Mean-Element-Method to LEO under Additional Perturbation due to Change of Coordinate System
+Research on Development of Space-based Monitoring System for Near Earth Object
+Near-infrared contrast of star to sky background during daytime
+Near-infrared Polarimetry in Study of Star Formation Regions
+Saliency analysis of near infrared star images and detection of fixed stars
+Low-energy Lunar Trajectories with Lunar Flybys
+Effects of radial velocity on line profiles and images from Standard Thin Disk
+Global Solutions of advection-Dominated Accretion Flows with Two Critical Points
+Application of Robust Estimation in GPS-Based Satellite Zero-Difference Kinematic Orbit Determination
+A Method to Calibrate Pointing Errors of a Radio Telescope Including Roughness of the Telescope Rail Track
+Positions and stability of equilibrium points of minor celestial bodies with mascon
+Astronomical Observation and Scientific Research of Popular Science Telescope
+Design and Implementation of Problem Solving Environment for Astronomy Application Based on Science Data Grid
+Spacecraft Orbit Determination with B Spline Approximation Method
+Design of the Readout Electronics for Solar Hard X-ray Imager
+Influences of Coulomb Coupling Effects to Solar-like Stellar Models
+Progress in the Research of Quark Star
+Identification and Statistics of Interference Signals in Wideband Spectral Sequences
+Progress in Study on Lyman alpha Forest (I): Observations
+Analysis of Light Curve Profile Characteristics for the Flares of Solar-type Stars
+Analysis and Design of Starlink-like Satellite Constellation
+Research on Multi-Mode Realization of Ion Thruster
+Astronomical Site Monitoring System of Lijiang Observatory
+HI Absorbers from Arecibo Legacy Fast ALFA Survey
+Orbit determination analysis using Crab observation data of GECAM mission
+GRACE Data-based Estimation of Spatial Variations in Water Storage over the Central Asia during 2003-2013
+A Method to Calculate Inclination Function with Jacobi Polynomials
+Autonomous navigation based on star light and ultraviolet earth sensors
+Evaluation of Gravitational Field Models Based on the Laser Range Observation of Low Earth Orbit Satellites
+COSMOLOGICAL CONSTRAINTS ON LambdaCDM FROM OBSERVATIONAL HUBBLE DATA:MARKOV CHAIN MONTE CARLO APPROACH
+Measurement of total atmospheric transmittance with stellar irradiance
+Calibration of optical axis parallelism by using star for astronomical observation system
+Determination of satallite autonomous orbit based on star light and geomagnetic field
+Orbit Control of Fly-around Satellite with Highly Eccentric Orbit by Using Solar Radiation Pressure
+An Orbit Determination Method Using Space-based Angle Measured Data
+Autonomous Optical Navigation for Interplanetary Cruise Based on Images of Beacon Asteroids
+Research on Characteristics of Hypervelocity Impact-Induced Ejecta in Rubble-Pile Targets
+Dark clouds in particle physics and cosmology: the issues of dark matter and dark energy
+Gravitational Deflection of Massive Particles in Second Post-Minkowskian Approximation of Scalar-tensor Theory
+Two Regions where Plutinos With Larger Masses Might Exist
+Two Line Element Aided Orbit Determination Using Single Station SLR Data
+The Comparison between Two Methods to Calculate Inclination Function with d-function
+The study of relationships between nearby galaxy SFR(star formation rate)s & strengths of emission lines ${\rm{HC}}{{\rm{O}}^ + }{\rm{J}} = 3 \to 2$ & ${\rm{HNC\;J}} = 3 \to 2$
+A Research on a Special Singularity of Recursion Formulae in Inclination Function Computation
+On the Role of Observation of Solar Low-Frequency Radio Bursts in Hazardous Space Weather in the Early Warning of Cardiovascular Cerebrovascular Events
+Classication for BZUs in 5BZCAT
+Is torus instability crucial for solar coronal mass ejections?
+Progress in the Strudy of Bare Strange Stars
+The Energy Response Calibration of FXPT
+50 Year's progress since the pulsar discovery and the detection of gravitational waves
+Dependence of Pulsation Stability on Helium Abundance of Stellar Convection Envelope
+Integrated Celestial Autonomous Navigation Method for Low Thrust Orbit Maneuver
+A Design of a Remote-Control Telescope System for High-School Students
+Structural design and autonomous mission planning method of deep space exploration spacecraft for autonomous operation
+Simulation of stellar spectrum controlled by fuzzy PID
+Jupiter Exploration Mission Analysis and Trajectory Design
+Development of the First Automated Small Telescope for the Site Testing of Dome A
+Several Diagnostic Indexes for Orbital Chaos
+Absorption Effect of Jet on Non-thermal Radiation Spectrum of 3C 279
+A Research on Adaptability of Collision Criterion
+The Medium and Long Period Broad Band Spectral Index Characteristics of Flat Spectrum Radio Quasar 3C 454.3
+Neutrino Dominated Accretion Flow Around Strange Star
+Study of Aerogravity Assist Transfer Trajectory and Application in Interplanetary Exploration Missions
+A Brief Review on Kilonovae or Mergernovae
+A Potential Radar Network Working in the 500MHz Band and Its Applications
+Electron Capture in Strong Electron Screening
+The Calculation of the Ratios of Intensities and the Intrinsic Redshifts of Cerenkov Iron Kalpha and Kbeta Lines and Its Possible Application in the Researches Towards Active galactic Nuclei
+A Quad-precision Calculation Test for Inclination Function
+Two Methods for Deriving the Recursion Formula of Inclination Function
+Stability Analysis of Recursion Relation for Inclination Function
+A Definite Integration Method of Calculating Inclination Function and its Derivative
+Entering into a New Era of Solar System Exploration
+Technique for Real-Time Star Simulator
+Holographic preheating
+A Surface Fitting Technique for Determing the Stellar Effective Temperature
+Application of Artificial Intelligence in the Selection of Pulsar Candidate
+The Observational Evidence of Solar Coronal Decimetric Radio Pulsations With Very Short Periods
+Observational Characteristics of CME Events and Associated Radio Emission
+The Meteorological Parameters Analysis in Shenzhen Astronomical Observatory During the Partial Solar Eclipse
+Analysis on Propagation Accuracy of Deep-Space TLE Objects Affected by Solar/Lunar Orbit Calculation
+Effects of sunshine temperature on axis angle measurement errors of large radio telescopes and the correction method
+HOW TO STRENGTHEN THE INSTRUCTION OF ASTRONOMY IN THEORETICAL MECHANICS CLASS
+Morphologies of Narrow-Line Region of Seyfert 2 Galaxies
+Measuring the Stellar Velocity Dispersion in Seyfert Galaxies
+Research on Displaced Non-Keplerian Orbit of Gravitational Tractor in Three-body System
+Effect of Color Temperature on Position Accuracy of Star Sensor
+International Symposium on Physical Processes Associated With the Sun (Weihai, Shandong, Aug. 5 - 12, 2002)
+Pulsationally Unstable Nonradial Modes in Upper Main Sequence
+High-accuracy same-beam VLBI observations using Shanghai and Urumqi Telescopes
+Fitting and accuracy analysis of the center circle of SH65 radio telescope
+Shutter function and linearity of the new CCD camera at the 1.56m reflector in SHAO
+The Progress in Speckle-Imaging Experiment with the 1.56m Telescope of the Shanghai Astronomical Observatory
+Astrometric Performance of the 30 cm CCD-rotating drift-scan Telescope of Shanghai Astronomical Observatory
+Statistic and Analysis of CHAMP Data Processing Results in SHAO
+VARIATION OF THE NIGHT SKY BRIGHTNESS AT ZO- SE STATION OF SHANGHAI ASTRONOMICAL OBSERVATORY
+Research progress of radio quiet active galactic nuclei variability
+The Design and Application of High Speed Data Acquisition and Processing Platform for Radio Astronomy
+The Amplitude Calibration of Radio Astronomy Millimeter Wave Receiver
+A Study of Evaluation of Electromagnetic Radiation Levels of Electronic Devices Near a Radio Telescope
+Optimization of Multi-objective Observation Strategy for Radio Telescope
+Research on Avoidance Method of Strong RFI of Radio Telescope in Far Field
+The AGN-obescuring Torus in Radio Galaxy 3C 288
+Progress in the Study of the Jet Collimation Mechanism of Radio Galaxies
+Higher-order Expansion of Perturbed Function and Secular Resonance
+Research on Orbit of Spacecraft Circling Planetoid Influenced by Dragging Force
+Progress of Research of Automated Star-Galaxy Separation in Optical/Near-Infrared Deep Sky Surveys
+The Application of Deep Learning in Astronomy
+Acquisition and tracking for star as beacon in deep space optical communication
+Iron Properties in the Galactic Cosmic Ray:Dosimetric Study
+Observability Analysis Method of Angular and Range Rate Measurement Integrated Autonomous Navigation
+Does life exist only on the Earth?
+Using Finite Volume Element Definitions to Compute the Gravitation of Irregular Small Bodies
+A predictive centroiding algorithm of unmatched stars for star sensor
+East Asia VLBI Workshop:NO.1(Shanghai,Mar.20-22,2008)
+A Criterion for The Linear Stability of Equilibrium Points in the Perturbed Restricted Three-Body Problem and Applications in Robe Problem
+An Application of Semi-parametric Estimator with Weighted Matrix of Data Depth in Variance Component Estimation
+An introduction to numerical relativity(i):einstein equations for relativity
+A New Method for Fast Star Identification Based on Star Trace
+Multi-wave Band Observation of Bi-directional Type Ⅲ Drift Bursts
+The Homogeneous/ Heterogeneous Data Weighting Method of LEO Combined Orbit Determination Based on BI-Satellite Positioning System with Its Application
+The Application of Bi-satellite Positioning System to LEO or MEO Satellite Orbit Determination
+Progress in Determination of Orbital Parameters of Binaries
+Planetary Formation and Dynamics in Binary Systems
+Study on Orbit Error of TLE Catalogue System
+The Influence of Velocity Distribution and Thickness Effect of Galactic Disk on the z-Distribution of Normal Pulsars
+Stochastic Quantum Space Theory on Particle Physics and Cosmology-A New Version of Unified Field Theory
+The Statistics and Analysis for Fast Radio Fine Structures Observed with the 0.7-1.5 GHz Spectrograph in Yunnan Observatory
+The Mid-term Forecast Method of Solar Radiation Index F_(10.7)
+The past and future of space solar observations
+Dark mini - halos, micro - halos and intermediate - mass black holes in the solar neighborhood
+Research Progresses of Halo Streams in the Solar Neighborhood
+Design of a High Dynamic Range Analog Receiver for Solar Radio Observation in 800MHz-975MHz
+Solar Radio Meter Burst and Coronal Mass Ejections
+New Results Obtained From the Solar Radio Spectrometer in Decimeter Wavelength with Super-High Temporal Resolution
+Analysis of Celestial Gravity Influence on Heliocentric Formation Flying of Gravitational Wave Observatory
+Slowly Drifting Radio Structures in Solar Flares
+Approaches for measurements of the distance from the Sun to the Galactic Center
+Detecting magnetars with Einstein Probe
+Orbit Evolvement and Precision Analysis for Chinese TC-1 and TC-2 Satellites
+Study on Physical Properties of the Double Pulsar Candidate J1906+0746
+Study on MIR Spectra of Organic Matter in Carbonaceous Chondrite
+Research Progress on the Special Types of Pulsars
+The Long-term Error Estimation Method for the Numerical Integrations of Celestial Orbits
+Silicate Dust in Astrophysical Environments
+Resisting Force and Pushing Force of Medium in Motions of Celestial Bodies and Particles Moving at a Speed Greater than the Speed of Light
+An Efficient Step-size Control Method in Numerical Integration for Astrodynamical Equations
+Astronomical Data Query and Release Review
+Review and Prospect of the Astronomical Database
+Detection Technology of Atmospheric Optical Turbulence for Astronomical Site
+The Chemical Enrichment of the Universe with Metal-Poor Stars
+Determination Orbit of Synchronous Satellite with Short Segmental Arc
+Image Shift-and-add Method for Astrometry of Faint Natural Satellites
+Interstellar Dust in Elliptical Galaxies
+Data Depth Weight Kernel Estimator of Satellite Orbit Determination Model Error
+An Analytical Method for Satellite Orbit Forecasting
+A Comparision between Stabilization and Post- Stabilization
+A Robust Estimation Method for Orbit Determination
+Low-thrust Trajectory Optimization Using Indirect Shooting Method without Initial Costate Guess
+Meteorological Conditions at the Astronomical Candidate Sites in Oma, Tibet and Kalasu, Pamirs
+Internal Structure and Atmospheric Composition of Super-Earths
+Study and Development of Contemporary (Quantitative) Theories on the Motion of the Uranian Major Satellites
+The simulation techniques and applications in modern cosmology
+Aircraft Wake Vortex Observations in Hong Kong
+Recent Advances in Modeling Gravity Field of Small Bodies
+Estimation on the regolith thickness distribution and the surface strength of 433-Eros
+Asteroid sampling head of finite element modal analysis
+Development of Asteroid Optical Determination Software and Data Processing Analysis
+Research Progress on Power-law Correlation between UV/OPT/NIR and X-ray Emission in Low-Mass X-ray Binaries
+On Correctors of Symplectic Integrators
+Conversion of Line Polarization to Circular Polarization in L Band Receiver of 26m Telescope in Xinjiang Astronomical Observatory
+Photometry System of the Nanshan One-meter Wide Telescope at Xinjiang Astronomical Observatory
+Holographic Measurement System of Nanshan 26m Telescope in Xinjiang Astronomical Observatory
+Installing a VLBI Digital Backend with DBBC2 at Nanshan Station, Xinjiang Astronomical Observatory
+Arithmetic and Simulation of Optimal Star Selection in Celestial Positioning
+Balmer Double Line Produced by Collisionless Shock in Supernova Remnants
+Launch Opportunity Search Method for Interplanetary Transfer
+Research Status and Development Prospect of Planetary Exploration Robots
+Research on determining methods of observed stellar in on-board radiometric calibration
+Methods of Recovering Stellar Velocity Dispersions of Galaxies
+The Frontier of Studies on Diffuse Intracluster Stallar
+Warped Discs of External Galaxies and their Statistical Studies
+The Star Formation Properties of Galaxy Cluster Abell 2199
+Star Formation Properties of Galaxy Cluster Abell 2255
+The Star Formation History of Galaxy Cluster Abell 85
+The Interaction Between X-ray Gas and Radio Gas in the Central Region of the Cluster PK
+The Heating of X-ray Gas by Radio Gas in Cluster PKS0745-191
+Progress on the Semi-Analytical Model of Galaxy Formation
+Star formation quenching in galaxies
+Progress on the Study of Molecular Gas and Star Formation in Galaxies
+A Comparison of Star Formation Rate Indicators for Galaxies
+Spins of Supermassive Black Holes in Galactic Centers
+Massive black holes and tidal disruption events at the center of galaxies
+The Semi-Analytic Models of Neutral and Molecular Gas in Galaxies
+Ultraviolet deep imaging surveys
+Methods and Progress on Kinematic Orbit Determination of LEOs Based on GPS
+Discussion on the Kinematic Orbit Determination by the Onboard GPS Zero-Differential Phase Observations
+Introduction of Space Exploration Progress for Planetary Radio Burst Emission
+New insights to the plantary formation process
+The Current Status and Future Perspectives on Numerical Simulations of Planet Formation I: Gas and Dust Dynamics in Protoplanetary Disks
+The Current Status and Future Perspectives on Numerical Simulations of Planet Formation II: Planet Migrations, Core Accretion, and Atmosphere Escape
+Application of Lucky Imaging Technology in Astronomical Observation
+Modified Gravity (MG)Model on Nonlinear Scale
+Hunting for Long-lived Protoplanetary Disks Observed with AKARI/FIS
+Compressed baryonic matter: from nuclei to pulsars
+Radio Quasi-period Oscillation Analysis of Blazar CGRaBS J0835 + 6835
+Broadband Spectral Index Distribution of Blazar and its Taxonomic Function
+Discussion on the Correlation between the Brightness Temperature of the Blazars and the Jet Energy of the Black Hole
+Study on the Properties of Blazar Jets
+Relativistic Beaming Properties of Radio Jets in Blazars
+Polarization Study of Blazar in Radio Frequency Band
+Dynamic Properties of a Massive Star Formation Complex
+Analysis of a Complex Solar Radio Burst
+A Pseudo Third Order Symplectic Integrator
+An Analog Receiver Designing of 55-65MHz Band Radio Astronomy Observation
+A Robust Method of Preliminary Orbit Determination
+A Calibration Method of Ship Borne Theodolite Based on Stellar Simulation System
+Implementation and Application of a Regional Fireball Monitoring Network Based on All-sky Camera Networking
+An Initial Orbit Determination Method Using Inter Satellite Angle Measuremen
+A Method for Automatic Detection of Impact Craters from the Surface of Similar-Spherical Asteroid
+A Method of Initial Orbit Determination for Long Arc
+A Novel Scheme of Orbit Deployment for Polar and in Situ Detection of the Sun
+The Non-linear Stability of Equilibrium of a Mass Point System
+The Analysis for the Effect of Motion of Observation Station on Orbit Determination
+Variable Star Searching in Several Areas Near the Milky Way Disc
+Warp of the Outer Region of the Galactic Disc
+Observations and Researches on the Galactic Center
+Secular Effect of Evolution of the Orbits of Binaries Induced by the Variation of Gravitational Constant with Time (The Case for the Elliptical Orbit)
+The speed Ofgravity
+Gravitational deflection of light by a Janis-Newman-Winicour wormhole using the Gauss-Bonnet theorem
+Preliminary Evaluation for Scientific Observations Application of HXMT Satellite
+The Pulsar Observation and Research with 50m Radio Telescope
+The Factors Influencing the Seeing Measurement by the DIMM
+The Study of Variations of Cyclotron Resonant Scattering Features in GX 301-2 by using the INTEGRAL /IBIS
+X-ray secondary multiple target sources for calibration of soft X-ray detectors
+Constraining Dark Matter Particles' Cross-section with Neutron Stars
+On testing the distance duality relation with the latest
+Test Predictions on the X-ray Jets in Radio-loud AGNs via X-ray Observation for FR Ⅱ Radio Galaxies
+Optical Positions of 22 Radio Stars Measured by Photoelectric Astrolabe Mark-1 in Irkutsk
+Sufficient and Necessary Conditions for the Stability of Equilibrium Points in the Perturbed Circular Restricted Three-Body Problem and Applications
+Calculation stellar detection limit for active pixel sensor
+Special relativity related to the Einstein's cosmological constant: A review to De Sitter/Anti De Sitter Invariant Special Relativity
+Constraints on the dark side of the universe (3D universe) and observational Hubble parameter data
+Discovering the Sky at the Longest Wavelength Mission-A Pathfinder for Exploring the Cosmic Dark Ages
+Voyage 2050: ESA Science's Long-term plane and enlightenment
+Constraints and Numerical Integration
+Free Return Trajectories in Lunar Missions
+On the Exposure Time of the Mephisto-W Survey
+61-element adaptive optical system for 1.2 m telescope of Yunnan Observatory
+The Dome Auto Control System of the 1.2m Telescope at Yunnan Observatories
+Faint Object Spectrograph and Camera for 1m Telescope
+Preliminary Exploration of the Change of Geometric Distortion of the 2.4 m Telescope at Yunnan Observatories
+An Evaluation of the Performance of the 4Kx4K CCD on the YNAO Full-Disk Ha Telescope for Solar Observations
+The Measurement and Analysis of Laser Parameters of Yunnan Observatory SLR System
+Building of a Camera System for Observation of the Full Solar Disk with Sunspots in the Yunnan Observatories I. Hardware
+Data Reduction and Related Software for Photographic Observations of Sunspots in the Yunnan Observatories
+The Transformation of the Control System of the YNAO Solar Chromosphere Telescope
+Optical Transfer Function Test of the Optical System on the Solar Spectrum Telescope in Yunnan Observatory
+A New Magnetically Active Binary System Discovered in Yunnan-Hong Kong Wide Field Survey
+Pointing Calibration for the 40m Radio Telescope
+The Catastrophe Theory and Applications to the Solar Eruption and Other Research Areas of Astrophysics
+Modified pressure of relativistic electrons in a superhigh magnetic field
+Evidence of Deconfinement of Quark Matters in the Observation of Pulsars
+Overview of the multimessenger astronomy on the moon
+The Evolution of Star Formation in Early-type Galaxies
+The Narrow-Line Seyfert 1 Galaxies
+Narrow-line seyfert I galaxies
+The photometry of Narrow-line Seyfert 1 galaxy Arakelian 564
+The Effect of Secular Resonance Sweeping in the Classical Kuiper Belt
+Research Progress of Timing Noise of Normal Pulsar
+The Research Progress of the Eclipsing Phenomenon of Spider Pulsars
+A Method for Deriving the Perturbation Equation
+Another Mechanism of Restriction on the Orbital Lifetime of Satellites
+Another Mechanism of Restriction on the Orbital Lifetime of Satellites (Continued)
+Studies on the Radio Continua of Active Galactic Nuclei with Intermediate-mass Black Holes: Summary and Prospect
+The Mechanism of the Mass-loss of Stellar Wind for Intermediate-mass Stars
+Research on Records of the Brightness of Stars and Its Variations in Ancient China
+Consideration for a large-scale multi-color imaging and slitless spectroscopy survey on the Chinese space station and its application in dark energy research
+SONG-China Project: A Global Automated Observation Network
+CAS Symposium No.341: 2002 Annual Meeting of Astrometry (Wuhan, Sept. 12-14, 2002)
+Progresses of Researches on Meteoritics and Cosmochemistry from 2011 to 2020 in China
+A comparison of quenching between central galaxies and satellite galaxies
+Describing Neutron Stars with the Relativistic Mean Field Theory
+Quantum Vacuum Polarization Modification for Gravitational Redshift of Neutron Star Emissions
+Relativistic Correction on Neutrino Emission from Neutron Stars
+Accreting Neutron Star Acceleration and Effects of Gravitational Radiation
+Model Dependence of Neutron Star Properties
+Hadron-Quark Phase Transition in Neutron Stars
+Determination of Parameters of Lognormal Model from the Power Spectrum of Reconstruction Lyalpha Forest
+Light nuclei production and QCD phase transition in heavy-ion collisions
+A Revision on Lithium Abundance Dispersin in Pleiades Stars
+Structure and Evolution of Rotating Stars
+The investigation of the gravity darkening and evolution in rotating star
+System Difference Analysis for the 55 Years' Hand-drawing Sunspot Data of Purple Mountain Observatory
+Reform of Telescopic Terminal System for the Fine-Heliograph at Gan-Yu Station of Purple Mountain Observatory and Recent New Solar - Observations
+Accuracy Analysis for Digitized Sunspot Hand-drawing Records of Purple Mountain Observatory
+Progress in Research of Damped Lyman Alpha Systems (DLAs) (I): Survey and Statistical Properties
+Magnetars as X-ray Pulsars
+Design and Realization of Photometric Processing Pipeline for 1.26m Infrared Telescope
+A Discussion on the Selection of Equivalent Ground Electric Parameters and Equivalent Earth Radius in Calculation for 100kHz Ground Wave Project
+The design of two degree of freedom compound controller for 110 m radio telescope
+SEE Charge Sharing Effect of 130 nm NMOSFET
+Primary Analysis of CMEs Associted with the Radio Emission During October 22 to November 03,2002
+RADIO, HXR AND EUV MULTIWAVELENGTH ANALYSIS FOR A SOLAR FLARE EVENT ON 13 JUNE 2003
+The Study of Ring-filament Eruption and CME in AR0588 on 2004 April 11
+A Comprehensive Analysis of the World Manned Spaceflight Development in 2011
+Hot topic review of Space Science in 2017
+Annual review of the advances in nuclear physics
+Plasma Characteristics in Orifice Region of 20A Discharge Current Hollow Cathode
+Areal- time Spying Software for the Driving System in the 25m Radio Telescope
+Errors analysis of a subreflector adjustment mechanism for NSRT
+Measurement and Analysis of the Radiated Electric Field Excited by Switching Operation of 330 kV GIS
+A Possible Periodicity in the Radio Light Curves of 3C 120
+Rotational Properties of Three Pulsars
+Design and Performance Test of a 40 cm Ion Thruster
+Error Analysis and Compensation for Sub- reflector and Feed of 40m Radio Telescope Antenna
+Error analysis and compensation of cable driven parallel manipulators for the forty-meter aperture radio telescope
+A Discussion on the Time Criterion of the 50 m Radio-Telescope
+Equivalent modeling method for interference analysis of 5Gsystem to large-scale NGSO satellite system
+An Experimental Research on Sunshine Temperature Effect upon the Back Structure of the 65-m Radio Telescope
+Calibration of Adjusting Mechanism for Subreflector of a 65 Meters Radio Telescope
+Development of an IF-Signal Transmission and Distribution System for the 65m Telescope of the SAO
+Design of 8 MW Unipolar Pulse Magnetron Sputtering Power Supply
+The Criterion of the Unstable Thermonuclear Reaction in the Helium Burning Shell of a Thermal Pulsation AGB Star
+Optical Absorption and TEM Study of the Ag Nanoparticles
+A Study of the Periodicity of Spectral Index in a Broad Radio Band of the BL Lac Object AO 0235+164
+Design and Simulation of a Flexible-support Tip/tilt Mirror in the ASO-S/FMG Image Stabilization System
+The Trigger and Termination Scheme for the Event Mode of the Lyman-alpha Solar Telescope(LST)Onboard the ASO-S Mission
+Microstructure of Electrode Sputtered on BaTiO3-based PTC Thermistors
+The characteristic periodicity analysis of the radio flux variability of BL Lac object Mkn 421
+Study of the Correlation between gamma-ray and Radio Emission in Lower Frequency at 6 cm Band of Blazar
+Studying the Apparent Velocity of Blazar jet Statistically
+Experimental study of dynamic shear modulus and damping ratio of CAS-1 lunar soil simulant
+Analysis of the Preliminary Measurements with the Multi-Color Photometric System of the Sky Brightness Monitor of the YNAO
+Application of CMOS Image Sensor in Solar Magnetic Field Observation
+In Situ Transmission Electron Microscopy Observation of the Electrochemical Behavior and Mechanism of CuO Nanowires
+Development of DCS Configuration Text Automatic Correspond to Control System Simulation Model Software Used in Power Station
+Application of EBSD technique combined with back scattered electron imaging in material science
+Study on the Curvature Properties of Spectral Energy Distribution for Fermi Blazars
+Analysis of Long-period Optical Variation and Study on Color Index Variation about Optical Band in FSRQ 0208-512
+The Temporal evolution of the Hardness Ratio of Gamma-Ray Bursts
+In-situ aging TEM study of GeSb_2Te_4 Nano-films
+Measurement of Radiation Electric Field Produced by Action of GIS Circuit Breaker
+Analysis and Assessment of the Orbit Discontinuity of the GNSS Precise Products
+Modeling the radio and optical/NIR afterglows of GRB 980703:A numerical study
+Testing the Interaction Dark Energy Model with H(z) Data
+Maintenance of H-600 TEM's vacuum automatic control system
+In situ TEM observation on fracture of H68 brass
+Observational study on the fine structures of solar type III radio bursts
+Development of High Frequency High Power Magnetron Sputtering Power Supply Based on IPOP
+Observations Toward IRAS 02232＋6138 With ~(13)CO, C~(18)O, HCO~＋ and N_2H~＋
+The Observations and Researches of Molecular Cloud Core Associated with IRAS 23133+6050
+Design of Transmitter of Single-chip Reader for ISO 14443
+Analysis of Impact of J_2 Perturbations and Solar Radiation Pressure on Tethered Satellite System
+Analysis of troubles of high voltage interruption in JEM-100 CX II transmission electron microscope
+Ovrhauling the breakdown of pneumatic control part of TEM JEM-1010
+Multiple baking problems and sample chamber maintenance of JEM-2100 transmission electron microscope
+Application of Kriging Surrogate Model to Optimization of Earth Observation Satellite System
+Design and Implement of the L-Band Four-Channel Transmitter Circuit Chip
+Extraction model of Lageos' leading edge data and its application
+lbb-a Library for Reading and Writing VLBI Baseband Data of Radio Astronomy
+The Design and Realization of Radio Telescope Control Software in Linux Operating System
+A Mark5B Formatter and a 10G Network Transmission System Applied to VLBI
+The Research and Design of Wireless Resource Allocation in MF-TDMA Broadband Multimedia Satcom System
+Uniform expressions for the diffracted currents on the wedge surface for the MM-PO technique
+Analysis of diffracted current basis functions in hybrid MoM-PO method
+The Variability Analysis of Radio and gamma-Ray Fluxes for Mrk 421 and 3C 454.3
+The Massive Runaway Binaries in NGC 3603 Cluster
+The Movement and Control Realization of NVST Polarization Observation System
+Simulation of Electron Energy Distribution of n-type Si Emitter
+Correlation between Luminosity of OH Megamasers and Infrared Luminosity of Their Host Galaxies
+The Measurement of Sub-reflectors Displacements of Large Radio Telescopes by PSD Method
+Microstructural Evolution of Ti_3Al Coating on SiC Fibers Subjected to PVD Sputtering Current
+The TEM investigation on the twin mechanism of SiC nanowire
+Preparing for the SKA: The Chinese perspectives
+The design of TEM high-voltage power test system
+Design and realization of automatic exposure of TDX-200 transmission electron microscopy
+Trouble shooting and repair on vacuum system of TECNAI 10 Transmission electron microscope
+Antenna Performance Measurements in Ku, K, Ka, and Q Bands for the TM65 m Radio Telescope
+Measurements and Analysis of System Noise Temperature of the Low-frequency Bands for the TM65 m Radio Telescope
+Sub-reflector model depending on elevations and performance evaluation for TM65 m radio telescope
+The Position and Attitude of Sub-reflector Modeling for TM65 m Radio Telescope
+TM65 m radio telescope microwave holography
+Antenna Performance Measurements in L, S, C, and X Bands for TM65m Radio Telescope
+Scattering Current Analysis of T-Shaped Wires with the Theory of Maxwellian Circuits
+In-situ TEM observation of phase transition in VO_2 (A) nanowires
+Z-contrast scanning transmission electron microscopy in materials science
+Radio Observations of dark molecular cloud core L183 And gas depletion on grains
+Radio detection of dark energythe Tianlai project
+Locus Program of Cabin Movement for the Large Radio Telescope with Eight Cables
+Application Analysis of Tip/Tilt Mirror in 1.2 m Telescope Laser Ranging Receiving System
+Application of Film Capacitor in Transmit Power Supply of Radar
+Preliminary Evaluation of SISURE of Beidou Satellite Navigation System
+Experiments recently carried out on the photoemission station at Beijing Synchrotron Radiation Facility
+Bayesian approach to gravitational wave multi-messenger astronomy
+Monte Carlo Simulations on Orbital Elements and Abundance of Barium Stars
+The Application of Ratio Correction in Radio Spectrum
+Measurement of Radiation Conductance Based on Electrical Method for Standard Ultrasonic Transducers
+Three-Dimensional Numerical Simulation of Electromagnetic Field Radiated by Slot Antennas of Surface-Wave Plasma
+Characterization of different structures nano-powders by transmission electron microscope
+Observational Characteristics of Multi-wavelength Radio Emissions Associated with Different Velocities of Solar Coronal Mass Ejection
+TEM study of fluid conclusions in different rocks
+The Problem and Solution on Infrared Radiated Electric-heating-film in Heating
+Study on Field Emission Current Repeatability and F-N Curves of Nitrogen Doped Fluorinated Carbon Films
+Beam combining/splitting technology of sodium beacon laser for generating sodium guidestars constellation
+Research of the Method for Reducing Background of Very Low Frequency Radio Spectrumon Chang'E-4
+A theoretical study on the emitter apex and the mechanism of field emission electric propulsion thruster
+Simulation of Plume Distribution Characteristics of FEEP Thrusters
+Analysis of Temperature Field of Very Large Aperture Radio Telescope
+Application of Superconducting Filter in Radio Astronomy RFI
+Relativistic Electrons in Super-Strong Magnetic Fields
+Ultrasonic Inspection Transmitting Circuit and Parameter Analysis
+Study on Ultrasonic Transmitting Circuit and Emission Efficiency
+Preparation of cobalt-chromium carbide composite coating by ultrasound-assisted pulse-reverse jet electrodeposition
+Preparing technique of Ni-Gns composite coating by ultrasonic assisted jet electrodeposition
+THE INFLUENCE OF SUBSTRATE TEMPERATURE ON THE PROPERTIES OF Al BACK REFLECTOR
+Process for preparation of continuous copper foam by combination of magnetron sputtering and electrodeposition
+Piecewise control method of emission current of magnetic source transient electromagnetic interference
+Radio Telescope from Arecibo to FAST: A relay of the industrial revolution
+Ultra-wideband receiver technology development for radio astronomical large aperture telescope
+Research on EMC Evaluation for Large Diameter Radio Telescope
+Finite Element Analysis of Wheel-on-track Rolling Contact for Large Aperture Radio Telescope
+Research on Key Technologies of the Phase Array Feed for Large Aperture Radio Telescope
+Reflector Error Analysis and Correction for Large-diameter Radio Telescope
+Study of Driving Force for Large Radio Telescope's Suspending Cable Feed System
+Attitude control of cabin structure of a large spherical radio telescope
+Combined-Adjustment of the Two-Step Adjustment Mechanism for the Feed Support System of a Large Aperture Radio Telescope
+Control and Experiment for Large Radio Telescope
+Fuzzy model reference learning for tracking control of large radio telescope
+Analysis of Servo Bandwidth of the Fine Tuning Stewart Platform for the Large Radio Telescope
+Workspace analysis of fine tuning Stewart platform for large radio telescope
+Modeling and Study on the Control System of a Fine Tuning Platform for the Large Radio Telescope
+The singularity analysis of the fine tuning stable Stewart platform for the large radio telescope
+EXPERIMENTAL STUDY AND AUTO-DISTURBANCES REJECTION CONTROL OF THE FINE TUNING PLATFORM FOR LARGE RADIO TELESCOPE
+Analysis and a Simplified Model of the Cable of a Large-Scale Flexible Parallel Manipulator for a Large Radio Telescope
+Optimal Design of the Rotating Device of AB Shaft Mechanisms in the Large Radio Telescope Feed Cabin
+Dynamical analysis of Cabin of the Large Telescope under Wind and MTMD Damper Designed
+Adaptive fuzzy predictive tracking of the feed for large radio telescopes
+Adaptive Predictive Tracking Control of Feed for Large Radio Telescope
+Calibration of fine feed platform of a large radio telescope
+Study on the Virtual Simulation of FAST's Feed Fine-Tuning System
+Modeling and Control of the Feed Cable-Supporting System for Large Spherical Radio Telescope
+Auto-disturbances rejection control of the feed-supporting system for the square kilometre array
+Design of transmission device of large radio telescope reflector unfolding and recovery mechanism
+Attitude Control of the Feed Source of a Large Spherical Radio Telescope Composed of Two-Stewart-Platform
+Optimization of Cable Tensions of a Cable-Driven Parallel Manipulator for a Large Radio Telescope
+RESEARCH ON COMPOUND PERTURBATION COEFFICIENTS BETWEEN DISTORTED MODEL AND PROTOTYPE OF LARGE RADIO TELESCOPE
+Three dimensional isolation system for large ground-based optical telescope
+Precision setting of a large radio telescope back structure
+Similarity between the distorted model and the prototype of the large radio telescope
+Numerical simulation of vortex-excited oscillation for the long-span cable-cabin flexible structure of the large radio telescope
+Tracking technology of Mars spacecraft for large radio telescope
+High precision pointing error detection method for large radio telescope
+Adjustments of Initial Conditions of the Macro-Micro Manipulator of the Large Radio Telescope
+Wind load characteristics of large radio telescope
+Research on large radio telescope structure scheme
+Trajectory tracking control for large radio telescope source feed of l/30th model
+Surface Measuring Methods of Large Antenna: A Review
+Design and application of digital twin system architecture for large radio telescope
+Development of active surface technology of large radio telescope antennas
+Suspended Feed Cabin-Stewart Platform System for Large Radio Telescope
+ANALYSIS OF STIFFNESS OF SUSPENDED FEED SYSTEM FOR LARGE RADIO TELESCOPE
+Model and Control of Moving Cable-Mesh Reflector for Large Radio Telescope
+Active surface control for a large radio telescope
+Characteristics analysis of antennas with metal cases for lunar radio telescope
+Time domain propagation characteristics of radiated electric field noise produced by single arc
+FILTERING OF INCLINED INCIDENT MICROWAVE WITH COMPOSITE SINGLE-NEGATIVE MATERIALS
+TEM Observation on the Ground Damage of Monocrystalline Silicon Wafers
+General Research of Satellite Navigation System and the Simulation of an Improved Plan of Constellation
+Simulations of the Antenna-shielding Effect of the Daocheng Solar Radio Telescope (DSRT)
+Capability Index of Earth Observation Satellite System and Its Application in Simulation
+Compatibility multi-dimensional analysis method for geostationary satellite orbit systems
+Introduction and Development of Geosynchronous Orbit Dynamic Monitoring Optical System
+Development of Autonomous Intelligent Technologies for Extraterrestrial Body Landing and Roving Exploration
+Development of advanced electric propulsion technology for cislunar and deep space exploration
+Estimation of the Success Probability for Relay Satellite Laser Ranging Around E-M L_2
+Limits analysis of effective carrier-to-noise ratio in evaluating bit error ratio of global navigation satellite system receiver
+The Low Cost BIST Mapping Logic Optimization for Digital Integrated Circuits Testing
+Design of multi-stage interpolation digital upconverter in LEO satellite DS-CDMA system
+A Channel Reservation Algorithm with Priorities in LEO Satellite Systems
+Investigation on Electron Energy Spectra of Transfer Ionization Process in 70 and 100 keV He2+ Colliding on He
+SE Characteristics of Dielectrics Under Low-Energy Electron Beam Irradiation
+Research on Wide-field Imaging Technologies for Low-frequency Radio Array
+Emitted Electron Characteristics of Dielectric Sample under Low-energy Electron Beam Irradiation
+Transmission electron microscopy observations on the low dimension nanomaterials with five-fold twinned crystal
+Attitude Control Experiments of Cubic Rover on Low-Gravity Testbed
+TEM Observation on Dislocations and Te Precipitates of CdZnTe
+Stray inductance extraction method for battery pack in electromagnetic launch
+Principle of Integrating Electromagnetically Induced Acoustic Emission with Electromagnetic Ultrasonic Testing and Design of Exciting Coil
+Circuit Design to Acquire Transient Emission Current of Electromagnetic Probe
+Jet Current Character for Electrospinning Direct-writing Single Nanofiber
+Pulse Emitting Time Selection Algorithm for Cable Fault Locator with Arc Reflection
+Microstructures of NiCoCrAlY Coating Deposited by Arc Ion Plating-a Transmission Electron Microscopy Study
+Research progress in understanding of lithium storage behavior and reaction mechanism of electrode materials through in situ transmission electron microscopy
+Effect of current density on cobalt-phosphate alloy coating prepared by jet electrodeposition
+Transmitting Circuit of Capacitor Micromechanical Ultrasonic Transducer Array
+Comparison of the Preparation of Pure Cobalt Coating by Electro-brush Plating and Jet Electrodeposition
+Overview on Developing and Application of Electron Cyclotron Resonance Ion Thruster
+Solar Radio Emission Mechanism Driven by Electron-cyclotron Maser Instability
+Charging Dynamic Characteristics of the Dielectric Sample under Electron Beam Irradiation
+Effect of Flow of Bath on Properties of Co-Ni Alloy Coating Prepared by Jet Electrodeposition
+A Study on the Spatial Distribution of Satellite Galaxies within Dark Matter Halos in an N-Body Numerical Simulation
+Transiting Primary Eclipse Photometric Follow-up Observations and Transit Timing Variations Studies of WASP-43 b and TrES-3 b
+2-D multi-band SBD photometric decomposition for NGC 0198
+Measurement and calibration of optical axis changes for multi-function astronomical theodolite
+The Image Acquisition System of the YNAO Multi-Function Astronomical Theodolite
+In situ TEM studies of the large plastic deformation of nanocrystalline gold nanowire
+Analysis of multi-GNSS united lunar explorer orbit positioning
+Detection ability of laser ranging system based on multi-telescopes to receive echo signal
+Improvement of the TEM specimen-making of ultrathin section of cochlear
+The second-order Post-Newtonian Equations of Light Ray
+Millisecond Radio Spikes Occurring on May 16
+Space Science Satellites as Key National Programs for Sustainable Development
+Methods for auto-identification of propagation modes from backscatter ionograms
+Methods for Extracting Backscatter Ionogram Leading Edges
+Research on Extraction Method of Elevation from Backscatter Lonogram
+Study on Boron-Doped Zinc Oxide Films as Back Reflection Electrode in Amorphous Silicon Solar Cells
+Influence on HTSC Field Electron Spectrum by Non-equilibrium
+Correlation Study of Fermi TeV Blazars Spectrum Index, Peak Frequency of Energy Spectrum and Energy Spectrum Curvature
+X-ray Emissions for Fermi Blazars
+Quasi-periodic Variations in the Radio Light Curves of Fermi Blazars
+The Peak Information,the Compton Dominance,the Spectral Index Diagram,and the Correlations for Fermi Blazars
+Summarization and Analysis of Distributed Satellite Systems Testbed
+Study on Hamiltonian Dynamic Model and Solving Method of Distributed Satellite System Relative Motion
+Task allocation model and algorithm for DSS cooperation mechanism
+Survey of autonomous safety operation and control for distributed satellite system
+Deblurring, of Speed-Measure of the Along-Track INSAR in the Cluster Micro-Satellite System
+In-beam gamma Spectroscopy of Neutron-rich ~(63,65,67)Mn
+A NEW STUDY OF THE LONG-TERM VARIABILITY OF THE SX PHOENICIS STAR CY AQUARII
+Application of Supplemental Entities for Generating the Tool Paths
+Channel-assisted interference mitigation method for radio astronomy by parametric estimation and subtraction
+Global Navigation Satellite System/Strapdown Inertial Navigation System Integrated Navigation Algorithm in Complex Urban Environment
+Mid-infrared Variability Properties of Gamma-ray-loud Narrow Line Seyfert 1 Galaxy TXS 1206+549
+The Long-term Infrared Brightness and Color Variabilities of gamma-ray-loud Narrow-line Seyfert 1 Galaxies
+GAMMA-RAY BURSTS AND EINSTEINS RELATIVITY
+Using improved Newton method to determine the boundary value of atmospheric extinction coefficient
+Application of combined optimization design based on improved ACO to structural optimization of long slit spectrograph
+The Noble Gas and Chronological Study of the Eucrites NWA 12274 /12275 /12276 /12277 /12278
+Experimental investigation of a high emission and intense current electron-beam diode
+Development and applications of high-resolution environmental transmission electron microscopy
+In situ experiments of high resolution transmission electron microscopy: a review
+Novel Type of Power Supply for High-Power Pulsed Magnetron Sputtering
+Analysis of laser emitting circuit with high-power and short-pulse
+Design of an Ultrasonic Phase-Controlled Transmitter with High Integration
+kHz repetition Satellite Laser Ranging system with high precision and measuring results
+A Relativistic Model for Data Processing of High-precision Astrometry and a Test of Alternative Gravity Theories
+High sensitive automatic detection technique for space objects
+Development and Application of Ultrafast Transmission Electron Microscope
+Study on High Speed Jet-electrodeposition Bulk Nanocrystalline Co-Ni Alloy
+Radio Frequency Interference to a Radio Telescope from a High-Voltage Power Line
+A prediction method of the troposcatter transmission loss with high elevation
+Optimal jamming waveforms based on spot jamming to TDRSS
+Elementary Research and Simulation of the TDRSS Constellation's Construction
+Engineering Optical Imaging Technique in Mars Exploration
+Research on Radiated Electric Field Noise of Pantograph Arc
+Study on transmitting/echo signal overlapping in common-optical-path 100 Hz-rate LLR system
+Low-Thrust Control of Diffraction Imaging for Collocated Diffractive Electromagnetic Spacecraft
+Numerical analysis of two-dimensional fitting of the electron beam divergence angle in optical transition radiation
+Applications of optical technology in lunar and deep space exploration in China(Invited)
+Simulation Design of Correction Masks for Optical Telescope Mirrors in Rotating Coating System
+High Speed Photometric Performance of Fast Optical Camera During the 2018 Campaign of a Black Hole Transient
+Evaluation of International Earth Rotation Service
+Design and Research of MEOSAR Ground Receiving Station in COSPAS-SARSAT
+Developing the Planetary Science Research for the Sustainable Deep Space Exploration of China
+The Crab Pulsar Glitch Monitoring by the 40-meter Radio Telescope of the National Time Service Center
+Pointing calibration of 13 m antenna of VLBI network at National Time Service Center
+Orbital dynamics of Neptune Trojans
+A theoretical study on the Coulomb wave describing the incident electron for (e,2e) processes on Helium
+Vibration absorption effect of whole satellite system with series nonlinear energy sink
+Spacecraft non-singular adaptive terminal sliding mode attitude-orbit coupling control
+Compensation method of signal flatness for a broadband solar millimeter radio observation system
+The NuSTAR extragalactic surveys: Source catalogs from the Extended Chandra Deep Field-South and the Chandra Deep Field-North
+Progress of the Study on (Sub)millimeter Lines in Galaxies During the Herschel Period
+Statistical Correlations between Eective Radii and Total Near-Infrared Luminosities in Field Ringed Galaxies
+Research Progress on the Correlation Between X-ray Intrinsic Photon Index and Eddington Ratio in Active Galactic Nuclei
+Iron Ks and Kbeta Lines in Active Galactic Nuclei （AGNs） -- Evidence of the Existence of the Cerenkov Line-Like Radiation
+AGN Variability and Spectral Slope Variability in the Optical Band
+Design and test verification of the electrical disconnecting mechanism in rocket launcher
+Design and Implementation of Signal Processing System for Radio Spectrometer Based on Casper and Simulink
+Signal Interference Suppression of Chang'e-4 Low Frequency Radio Spectrometer Based on CLEAN Algorithm
+A Design of Polyphase Filter Bank for Radio Astronomy Based on CUDA
+A Distributed Gridding Implementation Method for Radio Interferometric Visibilities Based on Dask
+The Design and Implementation of Magnetron Sputtering Power Based on DSP
+Extraction of Pulse Signals for Arc Reflection Cable Fault Location Based on Empirical Mode Decomposition
+Development of Image Self-correlation System Based on FPGA for Space Solar Magnetograph
+Measurement of the Antenna Characteristics of the VLBI Radio Telescope of the Urumqi Station
+Detection method of solar radio bursts based on decrease of GPS carrier-to-noise ratio
+Time-frequency analysis of electromagnetic noise produced by single arc based on HHT
+Automated Spectral Classification of Broad-line and Narrow-line Active Galactic Nuclei Based on K-Nearest Neighbour
+Design of Dual-channel Spectrum Observation System Based on LabVIEW
+Integrated Modeling and Simulation Methodology for Complex Multi-satellite Systems Based on MAO
+Simulations of Adaptive Filters of Antenna Systems Based on the Matlab/Simulink Tools
+Identification and morphology analysis of granules using the New Vacuum Solar Telephone Observations
+Research Progress on Interplanetary Type III Radio Bursts Based on PSP Observations
+The Progress of Pulsar Backend Development Based on ROACH2
+SM-PSO Algorithm-Based Configuration Optimal Design of Distributed SAR Satellite System
+Deep Space Exploration Optical Autonomous Navigation Technology Based on the Unscented Kalman Filter
+Study on improving laser ranging success probability based on tip/tilt mirror technology
+Study of international common view time comparison by Beidou
+Frequency Standard Source based on the Beidou Satellite System
+Analysis of load sharing based on loaded meshing characteristics for planetary helical gear sets
+Prediction method for radiative electromagnetic EMI based on circuit parameter model
+Extragalactic HI spectra data processing method based on Stacking
+Rigid-flexible coupling multibody model for the tethered satellite system based on recursive dynamics algorithm
+Radio Frequency Mitigation Using Independent Component Analysis
+Power spectrum density estimation of radio astronomical signal based on Multi-Coset Sampling
+Design of a Wideband Spectrum Analyzer Based on Polyphase Filters
+Model-Based Mitigation of the Moving RFI in Radio Astronomy
+Study of Partial Discharge Location in Power Transformer Based on the Detection of Electromagnetic Waves
+State Evaluation of Arc Contact of Porcelain Column Circuit Breaker Based on Radiated Electromagnetic Wave Signal
+An improved genetic algorithm based routing optimization on active surface of radio telescope
+A New Method to Observe Radio Astronomy Signal:Centimeter-Decimeter Spectral Line-Based on High Performance Integrated Circuit
+Study on the Pointing Error Model of Terahertz Telescopes with Optically Assisted Pointing Measurements
+Automatic Coronagraph Image Classification with Machine Learning Methods
+Fast Orientation Determination with High Precision by Beidou Twin-Star System Based on Extended Baseline
+Analysis and Development of Ga-FEEP Based on Comparison of Gallium and Cesium
+Research of Pulsars-Based Timing by Using Kalman Filter
+Insulation Fault Diagnosis of Circuit Breakers Based on Waveform Characteristics of Radiated Electric Field Due to Switching Operation
+Study of Very Low Frequency Solar Radio Emission Detection with Space Vector Antenna
+Modeling and Simulation on GNSS Vector Tracking Loop Based on Extended Kalman Filter
+BACK REFLECTOR BASED ON PYRAMIDAL MOCVD-ZnO FILM
+Multi-robot Formation Control Using Leader-follower Mode and Galactic Dynamics
+AIA Images Enhancement Method Based on Blind Deconvolution
+Simulation of Effectiveness Evaluation for Satellite Systems Based on Fuzzy Theory
+Research and Development on Global Navigation Satellite System Technology for Bridge Health Monitoring
+Deployment and Testing of Pulsar Data Processing Software Based on Container
+Scattering Electric Field Solution of Wind Turbine Blade Based on Scattering Center
+Real-Time Optimal Control for Variable-Specific-Impulse Low-Thrust Rendezvous via Deep Neural Networks
+Deep Learning for Mid-Term Forecast of Daily Index of Solar 10.7 cm Radio Flux
+Thunderstorm prediction method based on spatiotemporal memory decoupling RNN
+Study of rail inductance gradient during EM rail launch based on time-frequency analysis
+Short-time rain attenuation prediction for Ka-band satellite communication system based on numerical weather prediction
+Relay satellite system task scheduling algorithm based on double-layer priority
+Pointing Error Analysis of a Radio Telescope Using Quaternion
+Research on Autonomous Navigation Method of Deep Space Cruise Phase Based on the Sun Observation
+Study on Detection and Direction-Finding Method of Space Object Based on Tianlai Radio Array
+Secure Beamforming Design for Multi-beam Satellite Systems Based on Statistical Channel State Information
+Calculation and analysis on the strain-stress distribution for the viewing chamber of TDX-200 TEM
+Linear Surrogate Uncertainty Analysis Method for Distributed Satellite System
+Experimental Study of Vibration Suppression Technique of Planetary Gear System based on Planet Phasing
+An Admission Control Strategy of Mobile Satellite System Based on Utility and Resource Borrowing
+Backscatter ionogram classification based shape recognition
+Study of the ages and metallicities of 206 galaxies using colours
+An Ethernet-based Monitoring System of Cryogenic Receivers on a Radio Telescope
+A low-thrust trajectory optimization method based on motion synthesis
+Scale Analysis of Space Transportation System Supported by Space Propellant Depots
+Solar Image Enhancement Based on Histogram Specification
+A Research of RFI Mitigation Method Based on Adaptive Filter
+Planetary Orbit Simulation Based on the Latest Numerical Planetary Ephemeris
+Design and implementation of real-time laser power monitoring system in laser ranging
+Design of sending circuit for laser short range dynamic detection system
+Research on Effect of Laser Remelting on Properties of Jet Electrodeposited Nanocrystalline Nickel Coatings
+Effect of Laser Remelting on Microstructure and Properties of Nanocrystalline Nickel Coating Prepared by Jet Electrodepositing
+Research of laser remelting of jet electrodeposited nanocrystalline nickel coating
+The History and Development of The Low-Frequency Radio Observation
+Fast Analysis of Radiated Electric Field for Lightning Strikes to Tall Towers Using Radiation Mechanism of Accelerated Charges
+Flexible Hot-film Sensor Array Fabricated with Sputtering-electroplating Micromachining
+Noise Temperature Reduction Study of Filtering Metasurfaces in Radio Telescopes
+Influence of Shape Effect of Angle Reflector on Ranging Precision of Satellite Laser Ranging System
+The Lunar Exploration and Lunar Science in the Coming Years
+The Experiment Research of Electromagnetic Acoustic Emission Excitation on Metal Pipe Crack
+Shielding Behavior of Wire-mesh Cage to the Radiated Fields from Power Line
+Variations of the planet juncture index and heliocentric longitude with spectral analysis for approximately 2000 years
+The Feeding Mechanisms of Nearby Active Galactic Nuclei: An Overview of the Spatially Resolved Observations
+Mitigation of the Radio Frequency Interference Using an Adaptive Side-Lobe Cancellation Based on Accurate Delay Compensation
+Time Domain Measurement and Experiment Analysis of Near Electric Field Radiated from Electrostatic Discharge
+A transducer with large directivity and high transmitting sensitivity
+Design of High Brightness LED Chips with Reflective Electrode
+Simulation of Self-focusing Electron Emitter
+The study of TEM technique in characterization of polyurethane dispersion
+Rapid Measurement Method of Absolute Radiometer by Using Forecast Radiation in Electrically Heating Compensation
+The motion of an electron with radiation damping in a homogeneous magnetic field
+Equivalent Radiation Resistors in Switched-Capacitor Power Converting Circuits
+Design and Implementation of Pulsed Magnetron Sputtering Power Supply Considering Loads Compensation
+Orbit design for the space station adjoint satellite cluster considering the impact of perturbation
+Nonlinear Control for Reconfiguration of a Spinning Two-Body Coulomb Satellite System with State Constraints
+Exploration and Practice on the Mode of Research-Based Astronomical Innovative Talent Training-Taking Nan Ren-Dong Innovative Talent Experimental Class of Guizhou Normal University as an Example
+Simple Tension Control Strategy for Variable Length Tethered Satellite System
+Visual Distributed System Simulation of Autonomous Deep Space Explorer
+Probing Coherent Radio Radiation Process in Space Plasmas via Full-kinetic Particle-in-Cell(PIC) Simulations
+Investigation of the Frequency Relations between Space Charge Wave and Scattered EM Wave by Particle Simulation
+Design of Radio Wave Receiving Antenna with Low Frequency and Broad Band for Space Vehicle
+Extimation of DOA for Space Scattered Electronmageic Wave
+Advances in Space VLF Type Ⅱ Solar Radio Bursts
+Research Advances of Solar Radio Type Ⅲ Bursts at Space Very Low Frequencies
+Introduction to Orbit Determination Software SPODFMD for Multi-source Data Fusing of Space Debris
+SST high rate data transmission system design
+The AAT Technique and its Applications in Radio Astronomy
+Analysis of radiated electromagnetic interference characteristics of mine used frequency converter
+Transient electromagnetic scattering properties of high voltage iron towers under lightning radiation electromagnetic fields
+Transmission electron microscopy(TEM)study of polymer materials by freezing ultrathin section technique
+TEM Analysis of the Phase Transition in the Cold-Rolling Low Carbon Steel under High Pressure
+RADIAL DENSITY AND TEMPERATURE PROFILES OF THE INTRACLUSTER GAS CONSTRUCTED BY SUNYAEV-ZELDOVICH EFFECT
+Flat-fielding of the solar spectrograph with the engineered diffuser
+Research on Estimating the Rotation State of the Upper Stage of Falcon 9 Rocket by Using Lightcurve
+The Study for Long-time Stability of Pulse Profiles of PSR B0329+54 by Using Nanshan Data
+STRUCTURES OF BiMnO_3 STUDIED BY A TR ANSMISSION-ELECTRON MICROSCOPY AND THEORETICAL SIMULATIONS
+Phase Calibration Using Satellite as Calibrator for Mingantu Spectral Radioheliograph
+Discussion on Improving Monitoring Ability of Forest Fire in China Using Satellite System
+Research of synchrotron radiation by virtual photon and Compton scattering
+Search for Optimal Launch Window for Small Celestial Body Exploration Mission Using Genetic Algorithm
+Progress in Thermal Analysis of Two Types of Large Radio Telescope
+Comparison of Electric Dipole and Magnetic Dipole Models for Electromagnetic Pulse Generated by Nuclear Detonation in Space
+The Dense Molecular Gas in the Luminous Infrared Galaxy NGC 1614
+Influences of Current Quark Masses on the Properties of Hybrid Stars
+Effects of thiourea on microstructure and properties of nanocrystalline copper prepared by jet electroforming
+The Design and Implementation of Magnetron Sputtering Power in Green Coating
+Measurement and analysis of EMF around pulsed power supplies
+Measurement and Analysis of Two-layer SheetsE Shielding Effects Against Transient Field for Pulsed Power Supplies
+Preparation of cobalt-chromium carbide composite coating by pulse jet electrodeposition
+Observational Properties of Radio Emission Beams of PSR J1906 + 0746 and Its Implication
+Evolution of Normal Pulsar Magnetic Fields
+A Study on the Relation between Radio Radiation Beam Radii and Periods of Pulsars
+Scientific Objectives and Technical Design of a Meter-Wave Spectrometer for Solar Radio Observation
+Application of derivative-free hybrid optimization algorithm in top design of satellite systems
+An e-science Application for On-orbit Operation and Scientific Research of the Dark Matter Particle Explorer
+Joint beam hopping and coverage control optimization algorithm for multibeam satellite system
+Backbone-access integration space information network system design based on MEO satellite
+Determination of Disk Thickness of Face-on Spiral Galaxies and Its Image Processing Method
+Area Source Filament Thermion Emission Flow Density And Uniformity Analysis
+Measuring and Analysis of the Phase Pattern of MUSER
+A Textual Research about the Deviation of the Scribed Scale Lines on the Horizontal Sundial Attached to the Abridged Armilla Built during the Ming Dynasty and the Correction for the Longitude Difference
+Ni-Al2O3 nano-composite coatings prepared by friction and spray electrodeposition
+Research on Multiple Gravity Assist Trajectories for a Jovian System Exploration and Planet Flyby Mission
+Preparation Methods of the TEM Samples for the Nanoscale Chip
+The sample preparation and image analysis of TEM about nano-emulsifier
+Measurement of electromagnetic pulses generation from ns-laser coupling with metaltargets
+Study on spot size and photon return of a sodium laser guide star
+Developments of energy-filtered transmission electron microscopy
+Coordination of fuze and warhead for gun-launched electron-magnetic pulse bomb on actual ballistics
+Conceptual Design of Electric-Powered Gun Launched UAV
+Performances of Ni-Co-P/BN Composite Coatings Made by Jet Electrodeposition
+Preparation and simulation study of jet electrodeposition Ni-TiN nanocoating
+Surface Morphology and Hardness of Ni and Ni-ZrO_2 Composite Coatings Prepared by Jet Electrodeposition
+A Research on Jet-Electrodeposition of Bulk Nanocrystalline Co-Ni Alloy
+Experimental Research on Rapid Prototyping Based on Jet Electrodeposition
+Preparation and Properties of Ni /Co Nanometer Multilayer Coating Prepared by Jet Electrodeposition
+Basic Mechanism and Technology of Jet-electrodepositing Nanocrystalline Ni
+Numerical Analysis of Jet-electrodeposition Nozzle Flow Field
+Simulation for Cathodic Electric Field Intensity in Jet Electrodeposition
+Research on Fractal of Growth in Jet-Electrodeposition
+Experimental Research on Jet Electrodeposited Porous Nickel
+Numerical Simulation of the Temperature Field on Laser Remelted Ni--Coating Oriented by Jet Electroforming
+Simulation and Experimental Research on Jet Electrolytic Drilling
+Influence of the Flat Field Data Acquisition Interval on the Lyman-alpha Solar Telescope Flat Field Accuracy
+Fractal Growth of Dendrites in Jet Electrodeposition with Parallel Plate Electrode
+Fabrication and properties of field emission electron source based on planar-gate triode with ZnO emitters
+Experimental Investigation of Antiferroelectric Cold Cathode for Strong Electron Emission
+Simulation of Cable Crosstalk Generated by Electromagnetic Induced by High-Power Laser Shooting Targets
+KINEMATICS ANALYSIS OF ACTIVE REFLECTOR SUPPORTING MECHANISM FOR SPHERICAL RADIO TELESCOPE
+On the interference characteristics of fully steerable radio telescope
+New challenges and opportunities in GNSS
+Anti-jamming method using complex ANF for GNSS receivers
+Interactions of a Solar Coronal Wave with Solar Coronal Structures
+Studies of Coronal Mass Ejections and Associated Radio Bursts with the Cooperative Observations of Ground-Based and Spaceborne Instruments
+Coronal Mass Ejection Associated with Solar Type Ⅱ Radio Bursts
+Observation method of left and right circularly polarized solar radio signals using MUSER
+Calculation of Radiated Electromagnetic Disturbance of VSC-HVDC Converter System
+The coulomb describing for the incident electron scattering from neutral atoms
+KB mirror system of X-ray photo-emission electron microscope beamline
+Two New 3-Bands Solar Radio Polarimeters and Spaceweather
+Preparation of Porous Metal Nickel toy Scanning Jet-Electrodeposition
+Solid state dilution in composition analysis of nano-materials by STEM / EDS
+Non-uniform temperature field and effects of Shanghai 65 m radio telescope
+THE DESIGN OF SH65 RADIO TELESCOPE Ka BAND POLARIZER
+Analysis of seismic response to Shanghai 65 m radio telescope
+The Research on Range Based Location Algorithms in Radio Interference
+The Key Technology Analyses and Researches of the Sparse Array in VHF Band in Radio Astronomy
+Design of 4-40 GHz Ultra-wideband Low Noise Amplifier for Radio Astronomy
+Research on Radio Astronomy X-Band Polarization Network Integrated Design
+The Design of Four Channel Equalization Amplifier Module for Radio Astronomy Receiver
+Study on Deconvolution Algorithm of Radio Astronomical Images
+Design of focal plane array of radio telescope
+Development Overview of Phased Array Feed Technology for Radio Astronomy
+Measurements of Radiation Characteristics of a Set of Electronic Backend Devices for Radio Astronomy
+A Study of Methods of Adaptive Cancellations of Radio Frequency Interferences in Radio Astronomy
+The Complete Expression of the Axes Related Errors for the Pointing Calibration Model of the Radio Telescope
+Vibration characteristics of the feed support system in radio telescope
+Design and Implementation of Android Mobile Interference Management APP for Radio Telescope Station
+Radio telescope pointing model based on the generalized extended interpolation correction method
+Brief Analysis of the Adjustment Technique for Active Reflector of Radio Telescope
+Control of active reflector system for radio telescope
+Analysis of the Electromagnetic Radiation of Actuators Applied to the Active Surface System of the Radio Telescope
+Simulation Studies on Faraday Rotation Measure Observations of Radio Sources
+The Synthetic Measurement Method for the Antenna and Receiver in a Radio Antenna Array
+Preliminary analysis of electromagnetic pulse generated by nuclear explosions in space with case signal model
+Deep space exploration technology(Invited)
+Research on Autonomous Navigation Methods of Small Bodies During Flybys
+An Overview of Celestial Autonomous Navigation Technology for Deep Space Exploration
+Research on the Development and Application of Landing Radar in Deep Space Explorations
+Design and Implementation of Optical Signature Simulator for Deep Space Exploration Autonomous Navigation
+What is dark matter?
+Low voltage scanning transmission electron microscopy imaging of graphene
+Current overshoot produce principle and inhibition of transmitter of time domain electromagnetic detection system
+Velocity characteristics of time domain reflectometry cable length measurement system
+First EHT images of the supermassive black hole residing in the center of nearby galaxy M87
+Charging Effects of Dielectric Samples under Several Hundreds eV Low-energy E-beam Irradiation
+Application of Digital Filtering in Radio Astronomy
+Formation Channels of Binary Black Hole and Their Parameter Distributions
+Experiment of laser ranging to space debris by using two receiving telescopes
+Application of Water Vapor Radiometer in Radio Interferometer
+Research on High Dynamic Current Steep Impulse Transmitting Circuits for Transient Electromagnetic Method Application
+Four-channel Scalable Radio Digital Receiver System
+Research on the Technology Architecture of Space Resource Exploitation
+Modeling Research of 10.7 cm Solar Radio Flux 27-day Forecast (Ⅰ)
+Model Research of 10.7cm Solar Radio Flux 27-day Forecast(Ⅱ)
+Primary research on prediction method of 10.7cm solar radio flux
+Recent Observational Studies on the Fine Structures of Solar Type II Radio Bursts
+Simulations of a Low-Frequency Solar Radio Interferometry Array
+Temperature distribution of FAST under solar radiation
+The Solar and the Lunar RFI Test for the 40m Radio Telescope
+Design of An Analog Receiver for Solar Radio Observation in the Frequency Range of 30MHz to 65MHz
+Pattern Recognition and Parameter Statistics of Fine Structures in the Solar Radio Bursts
+Electron Cyclotron Maser Emission in Solar Radio Bursts
+Frequency Drift Rate of Solar Radio Fiber Structures
+The Study of Solar Radio Fine Structure at High Time - and Frequency - resolution
+Design of a Data Processing System for Solar Radio Spectral Observations
+Optical Fiber Transmission Technique and Performance Testing for the Solar Radio Heliograph
+Progress of Solar Radio Microwave Bursts and Fine Structures
+Multi-satellite Precision Orbit Determination and Data Analysis Software in Solar System
+Advances in the exploration of the solar system and key aspects of comparative planetology
+Centimeter and Decimeter Wavelength Emissions from Solar Flares
+A Coherent Emission Model for Solar Moving Type IV Radio Bursts
+The Secular Influence of Solar Mass-Loss on the Orbital Elements of Meteor Streams
+Prediction of Solar Proton Events and Radio Type I Noise Storm
+Characterization of carbon dots by transmission electron microscope
+Theoretical Analyses of Change of Field Emission Current of Carbon Nanotubes Film
+Chirality Effect of Carbon Nanotubes on Emission Current
+A Feasible Way for Improving the Correction Accuracy of Neutral Atmosphere Refraction Delay
+TEM study of in vivo calcium phosphate precipitates
+Space-Based Infrared Radio Telescope with 6.5 m Diffractive Synthetic Aperture
+Space-Based Communication and Radio Telescope Functions Integrated System
+Performance Analysis of Space Debris Detection Based on Tianlai Radio Telescope Array
+The High Precision Pointing Model Establishment of Tianma 13 m Radio Telescope
+Detection of ultra-high energy neutrinos and cosmic rays with Tianshan radio array
+Experimental Measurement and Calibration of Celestial Bodies with High Resolution Soft X-ray Radiation
+Research progress on astro-radio spectra of atoms, ions and molecules
+Investigate the Influences on the Field of View of PAF Radio Telescope under Different Superdirection
+Effects of Additive on the Nanocrystalline Co-Ni Alloy by Jet Eletrodeposition
+Analysis of the Testing Electronic Circuit on the Electron Emission of the Ferroelectric Cathode Materials
+Design of Imaging System for PCTP ITO Pattern Inspection by Using Line-Scan CCD
+Research and Design of a Touch Sensor Controller IC for Projected Capacitive Touch Panel
+Design of adaptive detection system of projected-capacitive touch-screen
+Irradiation damage on discharge products in lithium?oxygen batteries in TEM
+Magnetic Domain Imaging by Differential Phase Contrast Technique of Transmission Electronic Microscopy
+Construction of a novel in-situ measurement system combining SEM with a STM-TEM holder
+Recent Progress of Vibrational Electron Energy-Loss Spectroscopy in Scanning Transmission Electron Microscope
+Determination of particle size and distribution of NiO nanoparticle by multiple image alignment with TEM
+Unfamiliar failure caused by movement and installation TEM and troubleshooting
+Designs of digital imaging apparatus for transmission electron microscope
+Review on transmission electron microscopy cameras and single particle Cryo-EM data preprocessing flow
+In situ TEM/HRTEM investigations on deformation mechanisms in metals
+Fabrication and application of tension-compression loading device for in-situ nano mechanics based on transmission electron microscope
+In situ TEM investigation of the nucleation and growth of nickel nanocrystals
+Development and applications of monochromator in transmission electron microscope
+Fabrication of TEM Samples of Butted Films PLD
+The TEM high-voltage power box insulation technology and the inflatable technology
+Review on the spatial resolution of transmission electron microscope
+The Study of Current-Invariable Lens Power Supply for TEM
+The design and fabrication of the in situ double-tilt sample holders for the transmission electron microscopy
+Transmission electron microscopic observation on corneal limbal repair course in rabbits after alkali burn
+Study on Vegetable Plug Seedling Pick-up Mechanism of Planetary Gear Train with Ellipse Gears and Incomplete Non-circular Gear
+Correlations between Color Gradients and Structural Parameters of the Disks in Late-type Spiral Galaxies
+Scheduling Algorithm for Data Relay Satellite with Microwave and Laser Hybrid Links
+Coupling of external electromagnetic field to printed circuit board trace
+Measurement of Internal Pressure of Vacuum Tubes by Micro-discharge Emission Current
+Technology of microsecond-pulse sodium laser guide stars asterism (Invited)
+Configuration adjustment planning for cooperative observation of microsatellite cluster
+Consideration on the Development of Intelligent Networked Multifunctional Satellite System Technology in the Future
+The Status of Earth-based Radar Astronomical Observations of the Moon in China
+Evaluation Method of X-band Data Transmission Frequency Compatibility of Remote Sensing Satellites System in China
+The Software of Automatic Measurement of Urumqi 25m Radio Telescope Efficiency
+Determining the Reference Point of the Radio Telescope in an Unattended GNSS Monitoring Method
+Design of phased array feed for five-hundred-meter aperture spherical telescope
+The accelerator-electron microscope interface facility at Wuhan University
+Site Selection and Electromagnetic Environment Monitoring of Radio Telescope in Shannan,Tibet
+The application of correlation method in cable fault location using pulse reflection
+Ha Surges Aroused by Newly-emerging Satellite Bipolar Magnetic Field
+Development challenges for the Xinjiang 110 m radio telescope (QTT) high accuracy panel structures
+The Prime Focus Receiver Positioner Design of Xinjiang QiTai 110m Radio Telescope
+Transmission electron microscopy study on the failure mechanism of cathode materials in advanced batteries
+Research on novel pulse current emission circuit for airborne transient electromagnetic method
+Research and Design of a Novel DC Magnetron Sputtering Power Supply
+Optimization design of cabin-cable supporting system for super antenna
+Concept definition of new-generation multi-purpose manned spacecraft
+A Delay Calibration for Chinese Spectral Radioheliograph in the Decimetric to Centimetric Wave Range
+Quick Optimal Schedule Method of Onboard and Ground Resources for Signal Collection Satellite System
+A Fast Search Algorithm for Launch Window of Interplanetary Low-Thrust Exploration Mission
+The Methods and Study Progress about Estimating Metallicities of Galaxies(Ⅱ): Luminosity-Metallicity Relation
+Satellite System Guarantee Technology for High Detection Accuracy and Stability of Space-Borne Lidar
+Feature of Linear Quantum Information Entropy for Vibration Signals of Planetary Transmission Gearbox
+Simulation of interplanetary scintillation with SSSF and SSDF mode
+Dynamics analysis of the lunar rover with planetary wheel
+Advances in planetary target detection and classification using remote sensing data
+Experimental study of atmospheric dispersion at Xinglong observatory
+Progress and Prospection in Searching for Extraterrestrial Life
+Investigation of the resistive switching behavior of pseudoelastic silver chalcogenides via TEM
+Analysis of Nighttime Infrared Cloud Cover at Yaoan Astronomical Station
+Study on the Characterization of Intra-Day Variability in the Mid-infrared of Blazars
+Primary Research on a Complex Solar Radio Burst and its Characteristics of Microwave Sources
+Some Properties of Transmitting Electromagnetic Waves in Inhomogeneous Media of One - dimension
+Development of a K-band Receiver
+A method for determination of Es parameters based on backscatter ionogram
+A Novel Broadband Circularly Polarization Microstrip Antenna Based on Negative Refraction Circuit
+Autonomous Navigation Method Research of Two Spacecraft System Based on Relative Line of Sight Vector
+A Radio Visibility Data Auto-Flag Method Based on Support Vector Machine
+A Data Processing Acceleration Method and System for FAST Petabyte Pulsar Data Processing
+Power allocation based on energy and spectral efficiency in multi-beam satellite systems
+A Novel Transmitter for 10/100MHz Base TX Ethernet
+State modeling of the narrowband LMS channel suitable for dual-satellite systems
+A sample preparation for transmission electron microscope of carbon quantum dots
+A New Coordinate Conversion Method for Spatially Transmission of Scattering Electrons
+A Novel Analogy-Helix Antenna Structure Based on Negative Refraction Circuit Mode
+Ultrasonic driller with driving tool directly driven by piezoelectric transducer
+A Low Noise Amplifier for Global Navigation Satellite System
+A Low Power Wide-band Voltage Controlled Oscillator for Global Navigation Satellite System Receiver
+A Radio Source Fringe Search Algorithm for Space VLBI
+A New High-Speed FFT Algorithm for Analyzing Solar Radio Spectra
+Study of a circle map circuit and its symbolic dynamics
+Projects of Astrometric Mission in the Era of Post Hipparcos: Space Interfermetry Mission
+CCD Observations for the Hipparcos Star 104297 Measured with Respect to the Galilean Satellite Callisto
+Dynamic simulations on initial process of the gas ionization by cathode explosive emission electrons
+Verifications of gravitional wave for general relativity,and eight possible tests of negative matter as unify dark matter-dark energy
+Low-Noise Temperature Measurement Methods in the Radio Astronomy
+Design and Implementation of System-level Test for HXMT Satellite
+Design and In-orbit Verification of System-level Autonomous Functions for HXMT Satellite
+HXMT Satellite System Design and Technical Achievements
+The Application of PCI Interrupt in the Control of Radio Telescope
+Radiated Electric Field Calculation of Impulse Radiating Antenna Applying Image Method
+Analysis of Mineral Phase of Converter Steel Slag by Backscattered Electron Images of SEM
+Transmission and scanning electron microscopic observations of colonization conditions of Enterotoxigenic Escherichia coli
+The TEM OBSERVED MICRO MORPHOLOGY OF MODIFIED PAN
+Preparation of Flat-polished Specimens of Cement Paste for Backscattered Electron Imaging and Analysis
+Electrode Tips-Fabrication Technology for Field Emission Electric Propulsion Thruster
+New Progress on Digital Spectrometer for Radio Astronomy
+Study on the Electromagnetic Wave Generated and Radiated by a Moving MEMS Structure
+Black hole binaries in the universe
+Influences of Si Content and Substrate Temperature on Ti-Si-N Nanocomposite Films
+Recent Progress of in situ Transmission Electron Microscopy on Electrochemical Energy Storage
+The development and applications of in situ liquid chamber TEM technologies
+Application of Scanning Transmission Electron Microscopy in the Studies of Atomically Dispersed Catalysts
+Pressure Angle of Toroidal Drive with Cylindrical Teeth
+Low Frequency Antenna on the Moon
+Characteristics analysis of tripole antenna for lunar very low frequency interferometer
+Space Weathering Processes and Effects on the Moon
+Measurements of Lunar Brightness Temperatures at Multiple Radio Bands Using a Radio Telescope
+Precise relative dynamics model of a lunar probe and its application
+Hover-stage lunar lander autonomous relatively navigation
+Noble gases in the Lunar soil
+Solar Radio Observing and Simulation of Shadowing Effect
+Development and Experimental Characteristics of Indium Needle-Type Field Emission Electric Propulsion Thruster
+Can the Mass-Energy Equation Predicted Physics be Realized in the Vicinity of the Super-massive Spining Black Hole in a Galaxy Center?
+VLBI Polarization Study of Compact Radio Sources 0223+341 and 0248+430
+VLBI polarization study of compact radio sources 0400+258
+Site Testing and RFI Measurements for China-Argentina Radio Telescope
+TIME TRANSFER BY LASER LINK AND RELATED FUNDAMENTAL PHYSICS MISSIONS
+The potential breakthroughs of GW detection using future Chinese radio telescopes
+Recent research progress of solar physics in China
+Two-way satellite time and frequency transfer based on relaying technique
+Analysis on Quick Orbit Determination Ability of Relay Satellites System to User Spacecraft
+Using Tracking and Data Relay Satellite for Low and Middle Earth Orbit Satellite Launch and On-orbit Control
+The Effects of Baryons on the Shapes and Angular Momentum of Dark Matter Halos
+Relations between SFR Enhancement and Other Parameters in Major Merging Galaxy Pairs
+Development and application of quasi in-situ gas treatment system for transmission electron microscope samples
+Design and Fabrication of Polarizing Beam Splitter in Adaptive Optics Laser Guide Star System
+Numerical Investigations of Post-Newtonian Hamiltonian Dynamics for Spinning Compact Binaries
+TEM analysis of FeOOH nanofilms on self-assembled monolayers on microsphere of silica
+A Backtracking Method Based on Frame Synchronization for Deep Space Super Low Bit Rate Data
+A compensation method for the consistency of multi-channel mixing circuit for solar radio observation system
+A Further Argument on the Iron Line in Active Galactic Nuclei Arising from Cerenkov Line-Like Radiation-Calculation for an Optically Thin Case
+A new type of aerospace engine to remove space debris
+A preliminary analysis the distribution of metallic elements on the Lunar surface
+A Self-Calibrating and Automatic Spectrum Electromagnetic Environment Monitoring System
+A Study of a PMAC-Based Astronomical-Telescope Control System and Its Application
+A Study of the Energy Limit for Measuring Fusion Cross Sections with the Active Target Technique
+Aberration-Corrected High-Resolution Transmission Electron Microscopy and Its Applications in Functional Oxides
+Accurate Measurement of All-sky Camera's Attitude Based on Virtual Planetarium
+Aletai: The longest meteorite strewn field on Earth
+An Efficient Approach for Predicting Electromagnetic Interference Emission of Motor and Its Driver System Under Field-Circuit and TL Coupling
+An electromagnetic compatibility prediction method of radiated electric field of automobile fan drive circuit
+An overview on low-density ablators
+ANALYSIS AND DESIGN OF 3T CABLE-DRIVEN PARALLEL MANIPULATOR FOR THE FEEDBACK'S ORIENTATION OF THE LARGE RADIO TELESCOPE
+ANALYSIS OF LOAD SHARING CHARACTERISTICS AND SENSITIVITY OF PLANETARY TRANSMISSION OF WIND TURBINE CONSIDERING FLEXIBILITY OF GEAR RING
+Analysis of Sensitive Parameters of Momentum Transfer Factor in Kinetic Impact Defending Small Bodies
+Angular Distribution of Ejected Electrons from Eu 4f~76p_(1/2)8s Auto-Ionizing State Studied by Velocity Mapping Imaging Technique
+Antenna Model of MMC-HVDC Converter Valve System and Its Radiated Electromagnetic Disturbance Analysis
+Application of analytical transmission electron microscopy in materials industries: fracture toughness of duplex stainless steel
+Application of Backscattered Electron Imaging and Image Analysis in Microstructure Research on Cement-Based Materials
+Application of Electrochemical and Photochemical Liquid-environment Transmission Electron Microscopy in the Field of Energy Catalysis
+Application of focused ion beam technique in the microstructure characterization of transmission electron microscope cross section of two-dimensional porous Si/Al_2O_3/SiC film
+Application of optical fiber Bragg grating strain gauge to cable force monitoring of FAST
+Application of transmission electron microscopy in digital alloy structure and property characterization
+Applications of ABF-STEM technology in lithium-ion batteries
+Applications of Fiber Grating Sensor in Construction Stage of Cable Net for FAST
+Applications of in situ liquid environment transmission electron microscopy in nanocrystal structure investigations
+Automatic Identification and Parameter Extraction of Solar Type Ⅲ and Ⅱ Radio Burst Based on Probabilistic Hough Transform
+Checkup and maintenances of cooling system in H-8100 transmission microscope
+Collective Spectra of the Resonant Inverse Compton Scattering of the Assembly of Relativistic Electrons in an Intense Magnetic Field
+Complete Stiffness Model and Micro-displacement Analysis for Large Radiotelescopeantenna Subreflector Adjusting Mechanism
+Configuration Parameter Compositive Design for the Feed Fine-tuning Platform in FAST
+Control Technology for Unmanned Sampling of Lunar Surface
+Corrosion resistance of aluminum film on sintered NdFeB magnets by magnetron sputtering
+Crystallization Behavior of Glass Ceramics by in-situ Transmission Electron Microscopy-A Short Review
+Design and Analysis of the Adaptive Connecting Mechanism between the Cable-net and Panel of Five-hundred-meter Aperture Spherical Radio Telescope
+Design and Implementation of TT&C Scheme of Reentry and Return Phase of the Chang'e-5 Mission
+Design and realization of low frequency radio astronomical signal acquisition circuit based on modulated wideband converter
+Design and Test of an IBOB based Wideband Digital Spectrometer System for a Radio Telescope
+Design of extended mission to flyby multi small celestial bodies using lunar probe
+Design of High Efficiency and High Reliability Screen Supply for Ion Thruster
+Design of input parameters and operating characteristics for multi-mode ion thruster
+Design of Linking Mechanisms of Cable into Focus Cabin of Five-hundredmeters Aperture Spherical Radio Telescope and Its Static Analysis
+Detection of electromagnetic counterpart for gravitational wave bursts
+Discussion on the Process for Preparing Co-Cr_3C_2 Composite Coatings by Reverse Pulse Jet-electrodeposition
+Effect of Current Density on Microstructure and Frictional Properties of CoNiCrC Coatings on Cutting Tools
+Effect of current density on microstructure and properties of jet-electrodeposited cobalt-nickel alloy coating
+Effect of non-uniform temperature field under sunshine on the structure supporting the reflector of a large radio telescope-FAST
+Effect of Rotation Speed of Workpiece on Wear Resistance of Ni-P/BN(h) Composite Coatings Prepared by Jet Electrodeposition
+Effects of Jet Electrodeposition Current Density on Microstructure and Properties of Co-Ni-nano Cr_3C_2 Composite Coatings
+Efficient Real-time Data Transmission and Processing Technologies Applied to Radio Astronomy
+Electric Field Coupled Power Transmission System with Dual Transmitting Terminals Based on Full-Capacitive Coupling Model
+Electron backscatter diffraction characterization of residual plastic strain of X70 pipeline steel
+Estimation and improvement for fitting accuracy of instantaneous parabolic reflector in FAST
+Evaluation of Contact Ablative State of High Voltage Circuit Breaker Based on Radiated Electromagnetic Wave and Dynamic Resistance
+Experimental investigation of plasma jet and solid target interaction based on laser-ablation launching approach
+Extracting the Symmetry Energy Information with Heavy Ion Collisions
+Fast Measurement of PrimaryReflector Dynamic Deformation of Radio Telescope Based on Multibeam and Phase Retrieval
+Fault Tolerance Strategy and Workspace Boundary Identification of Adjusting Mechanism for 65 Meter Radio Telescope
+FIB based new clean method for ETEM aperture
+Formation of long period stacking structures in Mg-Gd-Y-Zn alloy studied by in-situ quasi-dynamic back-scattering electron microscopy
+From Fusion of Research and Teaching to Leading of Science Strategy to Build Planetary Science Program with Chinese Characteristics
+Geological disaster monitoring system based on BeiDou satellite system:crustal stress and water table monitoring in Tibet
+High Dynamic Range Solar Radio Imaging Based on Deconvolution Using Prolate Spheroidal Wave Functions
+High precision absolute time-grating angular displacement sensor using time division multiplex access scheme with reflective electrode structure
+Homotopy Method for Fuel-Optimal Trajectory Design in Flyby Mission
+HRTEM in situ observation of nanometer-sized titania crystal structures variation by electron-beam irradiation
+Impact of Installation Error on Dynamics Load Sharing Characteristic for Encased Differential Herringbone Train
+Impact of the Correlation of Visibility Noise in Redundant Baselines on Radiometric Sensitivity of Aperture Synthesis Radio Telescope
+In situ imaging of the oxygen reduction reactions of solid state K-O_2 batteries with SnO_2 nanowires as the air cathode
+In situ study on transport property of bending GaAs nanowires in transmission electron microscope
+In situ TEM observation of the plastic behavior of bodycentered cubic metal Mo nanowires
+In situ TEM studies of the stress-induced martensitic transformation in nanometric NiTi polycrystal strips
+In situ transmission electron microscopy study of domain switching in BaTiO3 single crystal under external electric fields
+Influence of Geometry of Space Debrison Laser Ablation Impulse
+Influence of multi-photon nonlinear Compton scattering on plasma planar reflect electromagnetic wave
+In-situ liquid phase transmission electron microscope and its application in nanoparticle characterization
+Investigation on Growth Habit of AlN Crystal by TEM and HRXRD Method
+Isolation and screening of high sugar-tolerant yeast in the Northeast black bee linden honey and TEM observation
+Key Performance Analysis of Five-hundred-meter Aperture Spherical Radio Telescope Reflective Surface Hydraulic Actuator
+KINETIC ALFVEN WAVES AND THEIR APPLICATIONS IN SOLAR AND SPACE PLASMAS
+Lamellar microstructure in the complex alloy phases by focused ion beam processing,scanning and transmission electron microscopy
+Large Electron Emission Current and High Electron Emission Stability of Hexagonal Close-packed Multi-lamination-layer Carbon Nanotube Cathode
+Lens current of H-600 TEM in FREE mode
+Lunar-gravity-assisted low-energy transfer from Earth into Distant Retrograde Orbit (DRO)
+Measurement and Analysis of the Transient Radiation Electric Field Excited by the Breaker When Closing the Unloaded Transformer in GIS
+Measurement of NSRT 26m Antenna Track Unevenness and Influence on Pointing Accuracy
+Mini-ASTROD: Mission Concept
+Model and Impact Risk Assessment of Meteoroid for Mars
+Nonlinear Evolution Dynamics for the Earth-Moon System
+Numerical Analysis and Parameter Optimizing on Temperature Field of Laser Re-melted Ni-Coating Oriented by Jet Electroforming of 45 Steel
+Numerical Solutions and Evolutionary Trends of the Orbit and Rotation of a Synchronous Binary-Star System at the Orbital Circularization Time
+Numerical Study of Cavitation Effects of Electro-hydraulic Actuator System of FAST
+Optical System Design of Lander Camera with Focusing Type
+Optimal Structural Design, Pseudo-drag Cable Restriction Analysis and Experimental Study of Wind-induced Vibration of a Large Radio Telescope with an Additional Vessel
+Optimization of cable tension distribution for computer controlled cable system of large radio telescope with downward cables
+OPTIMUM ANALYSIS OFA COUPLED SYSTEM OF SOLID OXIDE FUEL CELLAND THERMORADIATIVE CELL
+Orbit Determination of TanCe-1 Satellite Using VLBI Data
+ORDERED STRUCTURE OF 0.94(Na_(1/2)Bi_(1/2))TiO_3-0.06BaTiO_3 INVESTIGATED BY THE HIGH RESOLUTION TRANSMISSION ELECTRON MICROSCOPY
+Petrology and Mineralogy of Eight Pieces of Chondrites Newly Founded in Northwest Africa
+Pinning influence of defects on the magnetic domain reversal in a permally film investigated by a Lorentz TEM
+Planetary Geology: Extraterrestrial Model of Geology
+Prediction and Observations of Leonid Meteor Shower in China
+Preparation of CdSe Semiconductor Nanoclusters in Zeolite-Y and TEM Study
+Preparation of spherical aberration corrected TEM samples of Spinel micro-sized particles based on FIB-SEM
+Primary Research of a Complex Solar Radio Burst and its Characteristics of Microwave Sources and EUV Coronal Loops
+Principles and applications of a comprehensive characterization method combining synchrotron radiation technology,transmission electron microscopy,and density functional theory
+Probing High-density Symmetry Energy Using Heavy-ion Collisions at Intermediate Energies
+Process of Jet - Electrodeposited Ni-P- ZrO_2 Coating on Rotary Body Parts
+Progress of Nuclear Astrophysics in China
+Propagation characteristics of a vertical incident microwave in a non-equilibrium plasma slab at atmospheric pressure
+Prospects of Global Space Science Breakthroughs and Chinas Contributions
+Real-time position calculation method for large-diameter radio telescope panel using angle sensor
+Recent progress in the study of atomic-scale deformation in nanoporous gold via in situ transmission electron microscopy
+Refraction and reflection of obliquely incident electromagnetic wave by inhomogeneous collisional plasmas
+Repair of H-800 transmission electron microscope and interfaced to an ion planter and accelerator
+Research and development of an integrated optical waveguide sensor for measurement of the explosive radiation electromagnetic pulse
+Research and Observation of Metric and Decimetric TypeⅡand TypeⅢSolar Radio Bursts with Fine Structures
+Research Developments in Li-Paczynski Novae (II):Observational Aspect
+Research on Fast Calibration of Rotary Encoder Based on Particle Swarm Optimization
+Research on nickel-hydrogen battery ground test method for CE-2 satellite
+Research on On-line Detection of Opening Time of High Voltage Circuit Breaker Based on Radiated Electromagnetic Wave Signals
+Research on Optical Autonomous Navigation for Approach Phase of Mars Exploration
+Research on Temperature Field Numerical Simulation and Performance of Laser Re-melted Ni-coating Oriented by Jet Electroforming on 45 Steel
+Research on Wind Flow Regulation Influenced by the Mountain Terrain at Large Aperture and High Precision Radio Telescope Site Based on Numerical Simulation
+Research on Wind Tower Position Optimization Method of Radio Telescope Site Based on Numerical Simulation
+Research program of nuclear astrophysics based on the HIAF
+Review of hydrodynamic instabilities in inertial confinement fusion implosions
+Review on the Celestial Sphere Positioning of FITS Format Image Based on WCS and Research on General Visualization
+Scaling-laws of Radio Spike Bursts and Their Constraints on New Solar Radio Telescopes
+Simulation of Electron Scattering and Transmission in Characterization of Thick Films by Scanning Transmission Electron Microscopy
+Simulation of Planar Gate-Type Carbon Nanotube Field Emission Electron Source in Normally-off and Normally-on Modes
+Simulation of transformer partial discharge radiation electromagnetic wave coupling characteristics based on antenna model
+Simulation research on a localization method based on similarity of relief terrain and radiated electric field distribution
+Structural characterization of nanocrystalline TiO_2powders by X-ray diffractometer,transmission electron microscopy and high tem perature Raman spectroscopy
+Study of Fast Detection Algorithm of Radio Low-frequency Interference Based on Computer Vision
+Study of Solar Observational Techniques and Methods in the Infrared
+Study of the Streamer Current Sheet with White-light and UV Observations
+Study of ZnO/Al Back Reflector of Amorphous Silicon Solar Cells with DC-magnetron Sputtering
+Study on Lightning Channel Base Current and Its Radiated Electric Fields by Using FDTD Method in the Atmospheric Boundary Layer
+Studying Radio and gamma-ray Variability Characteristic Timescales of the Blazar 4C 01.02 with Stochastic Process Method
+Superconducting tunnel junctions for black-hole imaging by Event Horizon Telescope and for radio astronomy
+The Calculation of Line-of-sight Electric Current Density Associated with An X2.2 Flare in Active Region AR11158
+The Different Distribution of Gaussian Components between Mainpulse and Interpulse in Pulsar Radio Profiles
+The Fuzzy Control Policy Implementation of Software and Hardware Adopted in Automatically Changing Receiver System of 25m Radio Telescope
+The method for TEM image drift correction based on image segmentation and blind deconvolution
+The petrological and mineralogical characteristics of Eucrite NWA 11592 and the study on the genesis of the Fe-rich olivine veins
+The Radiated EMI Analysis Method for Electromedical Equipments Based on ICA
+The Total Power Response to the Ground Radiation at 6cm Wavelength of the Urumqi 25m Radio Telescope at Nanshan Station
+The type identification of dislocation loops by TEM and the loop formation in pure Fe implanted with H~+
+The Variability and Multi - band Spectral Energy Properties of Blazars
+Time Lags in X-ray Radiation of Compact Stars
+Timing analysis for five navigation X-ray pulsars
+Towards spectroscopic reference material of semiconductor quantum dots and the size characterization using HRTEM
+Transmission electron microscopy characterization of dislocations in epitaxial gadolinia?doped ceria films
+Transmission electron microscopy studies of microstructures evolution in Ti2448 single crystals under tensile stress
+Ultralow-Density Clathrate Ices and Phase Diagram under Negative Pressure
+Using gravitational wave to test general relativity
+Viscous fluid and cosmological age problem
+X-ray Aura Analysis of the Solar Radio Burst Interfering with Navigation Signal Events on November 4,2015
+X-ray telescope for pulsar deep space reference and its development vision
+Additionally, theoretical efforts were made to understand the diversity of emission-line profiles.
+The primary goal of the MAHA project is to monitor the AGNs showing current or historical asymmetric emission-line profiles in order to investigate the BLR geometry and kinematics, their evolution, and the possible presence of SMBBHs.
+The spectroscopic observations were carried out using the 2.3 m telescope of the Wyoming Infrared Observatory (WIRO) in the United States, the Lijiang 2.4 m telescope of the Yunnan Observatories of the Chinese Academy of Sciences in China.
+To minimize slit losses and their influence on the flux calibration, a 5″ wide slit oriented north–south was adopted (wider than the typical seeing of 2″–3″).
+We used both of the [O III] lines to do the flux calibration in these cases.
+During each night, we took three to four consecutive exposures in order to both improve the S/N ratios and evaluate the calibration accuracy by checking their differences.
+We used the Yunnan Faint Object Spectrograph and Camera (YFOSC) installed in the Lijiang 2.4 m telescope, which is an instrument both for low-resolution spectroscopy and imaging.
+ The advantage of the comparison-star-based calibration technique is that it can accurately correct for the changes of the wavelength-dependent atmosphere extinction in different nights.
+ We combined them to obtain the individual-night spectra.
+ In addition, we corrected the small wavelength-calibration uncertainties of the spectra according to their [O III] emission lines before producing the light curves.
+The YFOSC and CAFOS instruments can also perform imaging observations.
+For PG 1001+054 and PG 1211+143, we took Johnson V-band images and carried out differential photometry for the targets and the in-slit comparison stars using several other stars in the same fields.
+The typical exposure times were 20–50 s.
+Objects with magnitudes between 8 mag and 17 mag in the whole sky are monitored.
+This is very natural because the integrated emission line fluxes in these broad bands are roughly smaller than 10% of the continuum fluxes and the emission-line variation amplitudes are generally smaller than those of the continuum (see Table 3).
+where σ is the mean square root of the variance, Δ2 is the mean square value of the flux uncertainties, 〈F〉 is the average flux, and N is the number of epochs.
+The widths of the Hβ emission lines are measured from both the mean and rms spectra.
+Uncertainties generated from MICA are shown in Figures 2–16.
+The best data sets here may be good enough to allow dynamical modeling, which we shall investigate in future work.
+We prefer to adopt the results with the smallest measurement uncertainties.
+In this third paper of the series, we present the RM measurements of 15 PG targets from the MAHA project.
+
+A new meteor shower from comet 46P/Wirtanen expected in December 2023
+
+ABSTRACT
+Comet 46P/Wirtanen is a near-Earth object (NEO) for which no associated meteor shower has ever been reported.
+Aims. 
+This study is aimed at improving our understanding of why there has been no observed shower activity for this NEO to date, as well as to consider whether any past activity could be uncovered from the post-prediction results.
+Methods.
+ The usual dynamic tools for meteoroid streams were used to describe the behavior of the particles ejected by the comet.
+ The resulting modeled meteoroid stream was thoroughly inspected for collisions between the stream and the Earth.
+Results.
+ The results show a possible encounter forecast for December 12, 2023, between 8:00 and 12:30 UT.
+ The slow entry velocity is typically known to cause dim meteors. 
+The activity level of the shower is highly uncertain due to the absence of reported past showers.
+Conclusions. 
+Overall, the most optimal observations on the forecasted day would be achieved from Eastern Australia, New Zealand, and Oceania.
+ These observations will help constrain the size distribution of meteoroids from comet 46P/Wirtanen in the millimeter range.
+1. Introduction
+Comet  46P/Wirtanen was discovered in  January  1948  by  C. Wirtanen at  Lick  Observatory. 
+ It is classified as a Jupiter family comet (JFC), with the size of its nucleus estimated to be 1.2 − 1.4 km by Lamy et al. (2004).
+Comet 46P was the initial target of the Rosetta mission (Ricman & Jorda 1998), until the probe launch delay led to the focus to be shifted onto comet 67P/Churyumov-Gerasimenko instead. 
+Its orbit causes relatively close encounters with Jupiter, with the latest taking place in  1972 at 0.276 au from the giant planet.
+ Another very close encounter with the Earth in 2018 (0.077 au) allowed for detailed characterizations to be performed.
+ These revealed the comet is a hyper-active comet (Moulane et al.2023), meaning that its active surface area is higher than expected.
+46P is a near-Earth comet and, as such, it may potentially be the parent body of a meteor shower (Ye & Jenniskens 2022).
+ Moreover, an optical trail was detected by Farnham et al.(2019).
+ Maslov & Muzyko (2017) did look for possible showers from the modelling of the associated meteoroid stream generation and subsequent evolution, but no confirmation was performed by significant observation.
+ The goal of this paper is to re-investigate the possibility of a meteor shower caused by 46P, based on several different models and approaches.
+ We find an encounter between the Earth and the stream in December 2023.
+ Section 2 describes the method used.
+ Section 3 provides the results of the dynamics of the stream and the forecast shower in 2023.
+
+2. Method
+The methods used are based on similar previous studies of the dynamics of meteoroid streams and its application to the forecast of meteor showers (Ye et al.2021;Ye & Vaubaillon 2022). 
+In this case, several different models are considered. 
+For each model, simulated meteoroids were ejected from 46P/Wirtanen at each return of the comet and integrated until the present epoch to analyze the current dust distribution near the Earth. 
+Details on the simulation parameters used are presented in Table 1.
+One model used was developed by Ye et al.  (2016); 
+this model tested a classical pureice model (Whipple 1950) with ejection speeds multiplied by 0. 1×, 1×, and 5× in order to cover different activity levels of the parent comet.
+ For each scenario, about 1 million particles were generated and simulated.
+Another model is based on Vaubaillon et al. (2005a,b). 
+The comet perihelion passages taken into account here are restricted to the observed ones, i.e. since 1954.
+ The dust production rate was calculated using the measured Afρ = 150 cm, where Afρ is a proxy of dust production (A’Hearn et al.1984).
+ A total of 650E + 03 particles were simulated for this model.
+Additional simulations were conducted based on the model of Egal et al. (2019). 
+Several simulations were performed to investigate the influence of the diameter of the nucleus and the fraction of active area (from 20% to 40%). 
+In conjunction with these independent simulations we tested two different dust size distributions for the comet, characterized by the differential size indices of αd  = 3.3, as found by Protopapa et al.(2021), which is in line with typical comets (Fulle et al.2004) and the unusually steep αd  = 5.9 as found by Kareta et al. (2023).
+The model from Moser & Cooke  (2004, 2008) was used in a fourth simulation, taking into account perihelion passages since 1900 and utilizing the meteoroid ejection model ofJones & Brown(1996).
+ The active area fraction was set at 50%. 
+57E + 06 particles were simulated for this model.
+Lastly, the model by Watanabe et al.(2005) was also used to assess the possibility of a meteor shower from 46P in 2023.
+
+
+3. Results
+3.1. Dynamics of the comet
+To determine the reliability of 46P ephemeris, we simulated the past orbital evolution of a thousand clones of the comet’s or bit. 
+We used as starting conditions the orbital solution K181/24  provided by the JPL and examined the dispersion of the clones’ osculating elements.
+ Since the clones displayed a similar dispersion behavior for each orbital element, we only illustrate in  Figure 1 the backward evolution of the comets’ semi-major axis.
+We see that multiple close encounters with Jupiter (illustrated by sudden jumps in semi-major axis) significantly modified 46P’s orbit in the past. 
+However, the clones’ dispersion remains small until 1830, indicating that the comet can be confidently traced back for about two centuries. 
+All the simulations presented in Table 1 were thus restricted to perihelion passages posterior to 1830, when the ephemerides of the comet are well determined.
+
+Fig. 1. Time-evolution of the nominal (black), average (red) and median (green) orbital elements of 1000 clones of comet 46P/Wirtanen generated in 2018. 
+The blue curve represents the one standard deviation range about the average orbital element. 
+All comet clones follow a similar evolution until 1830.
+3.2. Past apparitions
+Like many JFC meteoroid streams, the dynamics shows a rather complicated behavior, with the reversal process (Vaubaillon et al. 2004) at play. 
+Perturbed meteoroid trails were found to intersect the Earth’s orbit in the past, although the spatial density of the dust is not easy to constrain.
+Unlike Maslov & Muzyko (2017), no significant encounter was found in 2012 or 2017 in the QY and JV simulations. 
+In the AE and DM models, thin particle trails formed by particles ejected from 46P between 1925 and 1950 were found to intersect the Earth’s orbit in 2012 and 2017.
+ However, the spatial density of the trails makes any past detection of the shower unlikely. 
+Differences between the models can be explained by different consideration of the non-gravitational forces affecting the comet’s and meteoroids’ motion, as well as the ejection conditions.
+ In contrast, all models were found to produce some encounters with the Earth in 2007 and 2018, mainly caused by the 1974 trail, which may have been recorded by dedicated meteor detection networks.
+The orbit of the comet causes the geocentric velocity of the associated meteoroids to be "low," namely: Vg   ∼ 10.2  km.s−1 (see also table 2). 
+Due to the low geocentric velocity of the meteoroids, we expect only mm-sized meteoroids to be detectable with video networks, while particles smaller than  a millimeter may be observed with radio instruments. 
+A similar situation occurred in 2021, with the first apparition of the Arid meteor shower. 
+Despite the low geocentric velocity of the meteoroids (Vg  ≤ 16 km/s), the Arids was detected by the SAAMER (Southern Argentina Agile Meteor Radar-Orbital System Janches et al. 2023). 
+Although the meteor radiants were located at low declinations in the Southern hemisphere, multiple Arids were even recorded by the Canadian Meteor Orbit Radar (CMOR Brown et al.2008, 2010) because of the gravitational bending of their trajectory close to the Earth.
+Encouraged by the Arids detection, we searched the CMOR database for possible apparitions of the shower produced by 46P in 2007, 2012, 2017, and 2018. 
+We performed a wavelet analysis of the radar observations based on the modelled characteristics of the shower, as described in Brown et al. (2010); Egal et al. (2022). 
+Unfortunately, we found no conclusive detection of the shower in past CMOR observations. To our knowledge, no observation of the shower has ever been reported in the literature.
+
+3.3. Predictions for December 2023
+All the independent models presented in Section 2 predict an encounter between the Earth and the trail ejected in 1974. 
+This trail shows a rather complicated dynamical evolution; in 1984, a close encounter of the stream with Jupiter caused a dramatic change in the orbital elements of the meteoroids. 
+Figure 2 highlights such change by comparing the orbital elements before and after the encounter. 
+The direct consequence is the leading position of the trail with respect to the comet, in particular in 2023 (ibid).
+The expected meteoroid spatial density is very low, although it is not easy to constrain, and highly depends on the considered model. 
+In particular, a relatively high ejection velocity (QY3) brings more particles to the Earth than a regular ejection process. 
+The size distribution of the meteoroids released at usual ejection velocities suggests that only the smallest particles (≤ 1 mm) intersect the Earth’s orbit in 2023, while meteoroids up to a few centimeters in radius approach the Earth within 0.05 AU (cf. figure 3).
+
+
+Table 1. Physical characteristics of the 46P nucleus (diameter D and fraction of active area fa ) and meteoroid ejection parameters considered for the simulations. 
+(The QY models do not use this information.)
+ Meteoroids were ejected from the nucleus within the limiting heliocentric distance rh  ≤ 3 AU, with speeds following the model of CR97 (Crifo & Rodionov1997), JB96 (Jones & Brown1996), or W50 (Whipple1950).
+ The model by Watanabe et al. (2005) explores the ejection velocity needed to bring the meteoroids to Earth for a given year, so the ejection velocity is tuned for a specific prediction.
+
+
+Fig. 2. Dynamics of the 1974 trail: Semi-major axis vs eccentricity before (left) and after (right) the close encounter with Jupiter. 
+The star represents the position of comet 46P.
+A summary of the predictions is provided in table 2.
+ The timing of the shower differs from one model to another, depending on the ejection model and the timing and distance criteria adopted to select meteor-producing particles.
+ Most models involving the simulation of both small and large particles locate the activity on December  12, between 8h and  12h30 UT (JV, QY, AE ≤ mm, DM).
+ Models retaining only the contribution of large particles (related to the core of the trail, which does not intersect the Earth’s orbit cf. Fig. 4) predict the maximum activity to occur later that day or early on December 13 (e.g., Sato, AE > mm). 
+Given the uncertainties on the stream’s evolution, we find the different models to be in good agreement with each other, and to predict clear meteor activity on December 12, 2023.
+Similarly to the new Arid meteor shower caused by comet 15P/Finlay in 2021  (Vaubaillon et al. 2020), the level of the shower is hard to grasp, since no observed past outburst can help calibrate the forecast. 
+Because of the low encounter velocity (10.2 km.s−1), the shower produced by 46P is expected to be rich in dim meteors, with only the largest meteoroids (if any) being detectable by optical detectors. 
+In addition, we expect quite a spread in the modelled radiant location (see Fig. 5);
+ and it is worth recalling that the observed radiant dispersion is usually greater than the forecast dispersion.
+On the other hand, the dynamical history of comet 46P may argue in favor of an enhanced meteoroid production in the past.
+ Moulane et al.(2023) found the nucleus to be hyperactive, meaning that an equivalent of 40% of its surface is active. 
+This is a huge value compared to other comets and may indicate an elevated meteoroid production rate, assuming the dust production rate is proportional to the water production rate, as reported in the study cited here. 
+In addition, the dynamical analysis in Section 3.1 shows that the perihelion distance was larger in the past (at least for the time period considered here). 
+This argues in favor of a quite high activity during the  1974 passage, namely, right after the perihelion distance decreased following the close encounter with Jupiter in 1972 (similarly to comet 240P/NEAT, see Kelley et al. 2019). 
+However, the  absence of detection of any trail using an IR telescope (Ye & Jenniskens2022) is puzzling, since a high production rate would create a dense meteoroid stream that may be detected.
+Attempts to reproduce the possible high activity of the comet in the past were performed by modifying the fraction of active area, fa , (from 20% to 40%) in the simulations. 
+Different fa  values were found to have a significant influence on the predicted time, but only a moderate impact on the meteor rates (cf. table 2).
+Table 2. Predictions of the 2023 shower from different models. 
+∆0 : distance between the trail and the Earth at the time of maximum. 
+Symbols: Vgeo  is the geocentric velocity; 
+α and δ are the location of the radiant; 
+and ZHR is the expected level of the shower.
+Fig. 3. Geocentric radiant of the simulated meteoroids in 2023 (AE1), color-coded as function of the particle’s radius.
+ Sub-mm particles are represented by crosses, while mm-sized particles that should be visible to radio and video instruments are represented by filled circles. 
+Particles approaching Earth below ∆r (AU) are retained as potential impactors. 
+Depending on the ∆r threshold considered, several clusters of radiants may be detectable in December 2023. 
+However, only ≤ mm-sized particles intersect the Earth’s orbit in the AE model.
+A more challenging parameter is the meteoroids size frequency distribution at meteor-producing meteoroid sizes that can only be guessed  (by e.g.,  considering a  constant index from µ-sized particles detected in visible wavelengths in the comet coma). 
+Kareta et al. (2023) found a very steep differential index of αd  > 5.9 for sizes in the range [0.5; 50 µm]. 
+In contrast, Protopapa et al. (2021) found a more usual value of αd  ∼ 3.3.
+ All things considered, the expected ZHR in Table 2 should be seen more like very rough estimates rather than accurate values.
+
+Despite the uncertainties on the activity level of the comet since 1900, all the predictions of in Table 2 point toward a noticeable meteor activity on December 12, 2023. 
+The shower will be best visible from North and West Australia, Papua New Guinea, New Zealand, and Indonesia (see Fig. 5).
+4. Conclusion
+After examining the dynamics of comet 46P/Wirtanen and its associated meteoroid stream, we have shown that the orbit of the comet is stable enough for the time span considered here. 
+Several past encounters with the Earth and the stream were found, but no observations were reported to our knowledge. 
+This is probably due to the quite unusual ejection velocity needed to bring large particles to the Earth. 
+We predict the birth of a new shower on December 12, 2023, between 8:00 and 12:30 UT. 
+The exact time of the maximum depends on the considered size frequency distribution and may vary by a few hours. 
+The location of the radiantis close to the λ-Sculptoris star, so a possible name for the shower is λ-Sculptorids. 
+The observation and subsequent report of this shower would be of tremendous scientific interest since it would put constraints on the size frequency distribution of large particles for the comet. 
+However, observations will be challenging due to the low entry velocity and the relatively small sizes of the meteoroids. 
+Nevertheless, we strongly encourage meteor enthusiasts to perform scientific observations and send their reports to the International Meteor Organization (IMO).
+
+Acknowledgement
+We are thankful to Josselin Desmars (IMCCE, Paris Observatory, PSL) for providing Fig. 5 and to Peter Brown (U.W.O, Canada) for digging in the CMOR data. 
+QY was supported by NASA grant 80NSSC21K0156, and AE was supported in part by the NASA Meteoroid Environment Office under cooperative agreement 80NSSC21M0073.
+
+Fig. 4. Node of the meteoroids compared to the path of the Earth in 2007 (left) and 2023 (right) from the JV model.
+Fig. 5. Location of expected shower radiant (units are deg) from the JV model, shown in the left panel. Shower visibility is given on the right.
